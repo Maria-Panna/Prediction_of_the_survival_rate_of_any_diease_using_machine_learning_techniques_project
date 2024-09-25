@@ -1,0 +1,1997 @@
+Patient Number,Number Of Days,Oxygen,Temperature,Heart Rate,Age,Comorbidities,Status Of Patient
+1,16,89,100.6,112,39,Yes,Not Survived
+2,26,85,100.4,113,48,Yes,Not Survived
+3,18,95,97.6,108,78,Yes,Not Survived
+4,30,89,103.0,92,57,Yes,Not Survived
+5,6,94,96.4,89,27,Yes,Survived
+6,20,91,97.6,102,79,Yes,Not Survived
+7,18,91,100.4,115,39,No,Not Survived
+8,10,96,98.8,75,29,No,Survived
+9,18,88,101.7,98,75,No,Not Survived
+10,7,98,97.4,93,34,No,Survived
+11,11,99,96.9,66,24,No,Survived
+12,22,92,98.6,110,49,Yes,Not Survived
+13,3,97,97.5,79,57,Yes,Survived
+14,25,91,97.6,108,50,No,Not Survived
+15,11,79,102.7,102,71,No,Not Survived
+16,19,79,104.3,115,66,Yes,Not Survived
+17,27,94,98.5,102,22,Yes,Survived
+18,13,87,102.5,114,37,No,Not Survived
+19,14,80,99.8,104,60,Yes,Not Survived
+20,16,89,102.5,99,45,No,Not Survived
+21,19,82,100.1,109,73,Yes,Not Survived
+22,27,87,103.3,92,72,No,Not Survived
+23,25,77,101.0,91,34,Yes,Not Survived
+24,9,97,98.2,74,22,No,Survived
+25,7,97,98.4,91,70,No,Survived
+26,11,94,97.7,69,28,No,Survived
+27,17,83,102.1,104,46,Yes,Not Survived
+28,4,98,98.3,71,27,No,Survived
+29,12,80,97.2,110,63,Yes,Not Survived
+30,19,93,100.9,103,69,No,Not Survived
+31,19,83,103.1,101,50,Yes,Not Survived
+32,28,88,104.0,111,42,Yes,Not Survived
+33,7,94,97.0,64,36,No,Survived
+34,8,94,97.8,87,43,No,Survived
+35,5,94,97.5,62,27,No,Survived
+36,29,80,105.4,108,70,Yes,Not Survived
+37,11,99,97.5,79,26,No,Survived
+38,26,84,99.8,95,66,Yes,Not Survived
+39,25,86,101.9,90,33,Yes,Not Survived
+40,20,83,99.3,106,60,Yes,Not Survived
+41,14,96,96.3,99,38,Yes,Survived
+42,19,77,99.0,104,80,Yes,Not Survived
+43,10,90,103.5,95,75,Yes,Not Survived
+44,27,79,104.1,103,80,Yes,Not Survived
+45,30,86,104.0,102,73,Yes,Not Survived
+46,29,89,102.7,92,37,Yes,Not Survived
+47,29,93,99.4,117,20,Yes,Not Survived
+48,3,100,98.4,87,27,No,Survived
+49,14,89,102.2,108,46,No,Not Survived
+50,4,99,96.3,79,25,Yes,Survived
+51,27,82,103.6,98,47,Yes,Not Survived
+52,29,77,101.6,117,48,Yes,Not Survived
+53,12,97,98.7,69,32,No,Survived
+54,9,94,97.6,92,35,No,Survived
+55,4,94,96.1,95,44,No,Survived
+56,11,97,97.0,66,45,No,Survived
+57,19,80,102.1,109,49,Yes,Not Survived
+58,17,85,97.9,107,77,No,Not Survived
+59,13,92,101.9,104,43,Yes,Not Survived
+60,23,78,101.8,118,54,Yes,Not Survived
+61,5,100,97.1,95,47,Yes,Survived
+62,9,94,97.6,69,32,Yes,Survived
+63,29,94,98.3,117,42,Yes,Not Survived
+64,21,79,99.5,101,46,Yes,Not Survived
+65,27,81,103.2,102,65,Yes,Not Survived
+66,27,89,101.1,117,78,No,Not Survived
+67,29,87,102.1,102,54,Yes,Not Survived
+68,26,87,104.2,96,38,Yes,Not Survived
+69,14,100,103.6,74,27,No,Not Survived
+70,9,93,97.0,80,44,No,Survived
+71,26,82,105.2,101,72,No,Not Survived
+72,12,95,96.3,83,23,Yes,Survived
+73,1,86,101.0,70,48,No,Not Survived
+74,17,90,99.8,116,70,No,Not Survived
+75,11,95,96.0,90,42,No,Survived
+76,23,82,98.2,98,46,Yes,Not Survived
+77,24,86,101.5,113,62,No,Not Survived
+78,14,89,100.8,111,63,No,Not Survived
+79,14,78,99.3,114,59,Yes,Not Survived
+80,13,94,97.2,87,24,No,Survived
+81,25,82,103.1,112,41,Yes,Not Survived
+82,8,99,98.1,77,37,No,Survived
+83,28,85,103.5,115,46,Yes,Not Survived
+84,13,93,98.9,74,25,No,Survived
+85,7,98,96.2,88,38,No,Survived
+86,12,95,97.8,80,47,No,Survived
+87,15,93,96.4,80,22,No,Survived
+88,14,80,101.0,92,50,Yes,Not Survived
+89,19,77,101.3,111,45,Yes,Not Survived
+90,27,76,104.4,93,25,Yes,Survived
+91,10,88,97.6,86,60,No,Not Survived
+92,8,94,97.6,77,57,No,Survived
+93,8,99,97.5,95,46,No,Survived
+94,29,91,101.8,109,71,Yes,Not Survived
+95,23,77,103.1,107,31,Yes,Not Survived
+96,4,97,98.0,76,45,No,Survived
+97,10,94,96.3,94,30,No,Survived
+98,20,78,104.5,93,70,Yes,Not Survived
+99,23,84,102.8,92,80,Yes,Not Survived
+100,12,96,96.5,70,32,No,Survived
+101,10,96,96.4,80,28,No,Survived
+102,16,86,97.9,116,49,No,Not Survived
+103,30,85,102.9,103,52,Yes,Not Survived
+104,29,82,103.2,96,50,No,Not Survived
+105,21,81,98.5,114,41,Yes,Not Survived
+106,23,80,104.7,107,44,No,Not Survived
+107,28,76,101.2,75,76,No,Not Survived
+108,17,98,103.7,78,46,No,Not Survived
+109,27,81,100.2,108,45,Yes,Not Survived
+110,24,90,103.9,118,79,Yes,Not Survived
+111,5,99,97.5,70,29,No,Survived
+112,11,75,99.5,97,27,No,Not Survived
+113,18,86,100.3,109,61,No,Not Survived
+114,11,78,98.2,118,54,No,Not Survived
+115,14,84,102.0,102,42,Yes,Not Survived
+116,4,96,98.2,97,39,No,Survived
+117,15,99,96.5,70,32,No,Survived
+118,24,86,102.8,96,65,No,Not Survived
+119,25,92,104.3,117,41,Yes,Not Survived
+120,14,96,98.1,88,71,No,Survived
+121,11,96,96.3,83,29,No,Survived
+122,8,99,96.9,79,25,Yes,Survived
+123,15,97,98.5,87,28,No,Survived
+124,11,94,96.6,85,36,No,Survived
+125,30,78,103.0,104,59,Yes,Not Survived
+126,10,93,96.9,78,39,No,Survived
+127,26,83,101.7,105,48,Yes,Not Survived
+128,11,94,97.3,87,45,No,Survived
+129,19,81,105.9,111,65,Yes,Not Survived
+130,23,83,101.2,100,66,Yes,Not Survived
+131,20,75,101.5,114,39,No,Not Survived
+132,12,97,96.2,91,62,No,Survived
+133,30,83,100.7,100,23,Yes,Not Survived
+134,11,96,96.5,74,35,No,Survived
+135,8,93,98.9,100,24,No,Survived
+136,14,98,97.7,94,63,No,Survived
+137,7,98,98.5,93,25,No,Survived
+138,10,95,97.9,92,31,No,Survived
+139,28,90,101.5,105,60,No,Not Survived
+140,25,89,100.2,107,70,Yes,Not Survived
+141,13,95,103.4,102,70,Yes,Not Survived
+142,29,78,99.6,107,80,Yes,Not Survived
+143,27,83,98.8,108,69,Yes,Not Survived
+144,10,97,97.5,82,38,No,Survived
+145,12,99,98.8,82,44,No,Survived
+146,11,96,96.6,83,49,No,Survived
+147,20,87,100.7,110,31,No,Not Survived
+148,11,98,96.8,78,26,No,Survived
+149,17,85,101.2,95,53,Yes,Not Survived
+150,11,93,96.8,89,74,No,Survived
+151,11,92,97.0,84,27,No,Survived
+152,7,94,96.1,82,36,No,Survived
+153,30,80,103.3,119,80,Yes,Not Survived
+154,3,99,96.2,78,27,Yes,Survived
+155,27,83,101.6,102,62,No,Survived
+156,21,81,102.4,105,64,Yes,Not Survived
+157,19,87,99.5,94,79,Yes,Not Survived
+158,20,78,102.3,114,46,Yes,Not Survived
+159,13,95,98.1,66,31,No,Survived
+160,6,100,98.7,88,46,No,Survived
+161,8,97,97.3,76,38,No,Survived
+162,9,92,98.4,76,42,No,Survived
+163,7,93,98.3,69,28,No,Survived
+164,12,99,96.5,97,28,No,Survived
+165,25,79,96.3,94,50,No,Survived
+166,29,94,96.9,115,68,No,Survived
+167,25,87,105.6,107,68,Yes,Not Survived
+168,23,86,103.9,107,79,Yes,Not Survived
+169,24,86,103.9,113,21,No,Not Survived
+170,12,93,98.1,62,72,No,Survived
+171,25,91,100.1,98,75,Yes,Not Survived
+172,25,88,100.0,104,79,Yes,Not Survived
+173,19,84,99.3,71,50,Yes,Survived
+174,20,80,104.5,91,66,Yes,Not Survived
+175,6,94,97.7,93,45,No,Survived
+176,5,97,98.7,76,44,No,Survived
+177,17,86,102.0,119,73,Yes,Not Survived
+178,13,97,96.4,62,26,No,Survived
+179,14,93,97.7,98,76,No,Survived
+180,12,100,97.7,91,48,Yes,Survived
+181,3,97,98.7,79,35,No,Survived
+182,24,77,105.1,106,75,Yes,Not Survived
+183,12,89,100.8,99,80,No,Survived
+184,10,93,96.5,67,44,No,Survived
+185,6,98,97.2,75,44,No,Survived
+186,18,83,102.4,99,66,No,Not Survived
+187,12,95,97.1,85,45,No,Survived
+188,13,96,98.3,88,24,No,Survived
+189,26,82,101.3,119,49,No,Not Survived
+190,3,97,98.0,88,26,Yes,Survived
+191,15,84,102.1,98,44,Yes,Not Survived
+192,6,92,97.2,93,70,No,Survived
+193,16,82,102.1,117,67,Yes,Not Survived
+194,30,94,103.8,113,46,No,Not Survived
+195,11,93,96.2,86,30,No,Survived
+196,15,79,101.4,113,39,No,Not Survived
+197,11,96,97.9,79,44,No,Survived
+198,1,89,98.6,94,51,No,Survived
+199,27,80,99.9,100,66,No,Not Survived
+200,16,94,104.0,99,79,Yes,Not Survived
+201,14,96,97.8,64,24,No,Survived
+202,12,82,97.5,108,76,Yes,Not Survived
+203,10,81,98.3,102,68,Yes,Not Survived
+204,8,100,98.3,67,47,No,Survived
+205,23,86,102.9,118,48,Yes,Not Survived
+206,27,77,104.4,106,62,Yes,Not Survived
+207,12,96,98.3,83,30,Yes,Survived
+208,8,97,98.0,72,48,No,Survived
+209,5,94,97.3,95,35,No,Survived
+210,11,97,96.9,93,45,Yes,Survived
+211,10,92,96.7,75,42,No,Survived
+212,12,82,102.6,110,79,Yes,Not Survived
+213,23,80,102.8,111,79,Yes,Not Survived
+214,27,88,99.6,101,30,Yes,Not Survived
+215,9,75,104.8,86,54,Yes,Not Survived
+216,18,84,102.9,113,47,Yes,Not Survived
+217,13,80,103.4,106,46,Yes,Not Survived
+218,23,88,104.2,119,68,No,Not Survived
+219,11,96,98.1,80,70,No,Survived
+220,30,83,105.9,96,77,Yes,Not Survived
+221,18,99,98.3,75,56,No,Survived
+222,16,78,102.5,101,46,Yes,Not Survived
+223,29,82,101.6,98,78,No,Not Survived
+224,16,83,105.2,111,28,No,Not Survived
+225,8,99,97.3,92,35,Yes,Survived
+226,8,93,98.2,86,31,No,Survived
+227,25,81,100.3,113,73,Yes,Not Survived
+228,9,97,96.6,93,24,Yes,Survived
+229,17,100,100.5,84,59,Yes,Not Survived
+230,30,82,96.8,71,62,No,Survived
+231,7,94,98.3,75,37,No,Survived
+232,4,99,96.1,81,27,No,Survived
+233,14,94,98.9,80,43,No,Survived
+234,29,79,103.5,92,45,Yes,Not Survived
+235,8,92,97.1,78,23,No,Survived
+236,11,96,98.0,69,45,No,Survived
+237,18,90,101.0,100,50,Yes,Not Survived
+238,3,95,97.1,68,35,Yes,Survived
+239,30,77,99.4,115,32,Yes,Not Survived
+240,12,84,98.1,110,33,No,Not Survived
+241,4,95,97.7,96,38,No,Survived
+242,20,77,101.6,95,52,No,Not Survived
+243,6,98,97.2,80,42,No,Survived
+244,13,100,97.6,88,22,No,Survived
+245,27,81,98.2,93,72,Yes,Not Survived
+246,29,86,102.4,100,31,Yes,Not Survived
+247,9,95,97.7,75,23,No,Survived
+248,14,84,101.8,95,23,Yes,Survived
+249,12,99,98.6,87,35,No,Survived
+250,9,98,96.7,95,23,No,Survived
+251,26,78,98.0,108,80,Yes,Not Survived
+252,12,96,98.1,77,44,No,Survived
+253,13,92,96.1,81,31,No,Survived
+254,4,95,98.8,77,26,No,Survived
+255,13,95,97.3,70,27,No,Survived
+256,15,95,98.0,88,37,No,Survived
+257,3,100,98.0,74,25,Yes,Survived
+258,30,83,102.3,113,59,Yes,Not Survived
+259,3,97,97.1,74,42,Yes,Survived
+260,8,96,97.2,83,54,No,Survived
+261,11,96,98.0,91,65,No,Survived
+262,5,92,97.2,91,45,No,Survived
+263,27,77,103.1,117,60,Yes,Not Survived
+264,16,90,100.7,109,55,Yes,Not Survived
+265,9,97,97.3,69,36,No,Survived
+266,24,84,102.7,106,40,Yes,Not Survived
+267,12,95,98.7,72,24,No,Survived
+268,11,98,98.0,99,23,No,Survived
+269,8,95,98.8,62,50,No,Survived
+270,7,96,97.9,81,29,No,Survived
+271,4,94,97.2,95,22,No,Survived
+272,11,87,104.4,113,44,No,Not Survived
+273,4,96,97.3,71,22,No,Survived
+274,22,84,99.7,95,35,No,Not Survived
+275,8,96,96.8,63,39,No,Survived
+276,16,80,103.6,118,43,No,Not Survived
+277,12,99,96.8,90,48,No,Survived
+278,13,96,97.8,86,46,No,Survived
+279,19,79,99.4,84,35,No,Survived
+280,8,99,97.6,72,47,No,Survived
+281,25,84,100.0,98,79,Yes,Not Survived
+282,30,81,101.0,100,79,Yes,Not Survived
+283,16,81,101.1,99,31,Yes,Not Survived
+284,5,93,96.0,65,40,No,Survived
+285,9,100,96.7,96,46,No,Survived
+286,30,82,102.2,114,67,Yes,Not Survived
+287,6,95,96.4,81,33,No,Survived
+288,20,76,97.0,114,59,Yes,Survived
+289,27,88,99.8,96,78,No,Not Survived
+290,9,96,97.9,85,36,Yes,Survived
+291,28,80,101.3,107,80,Yes,Not Survived
+292,9,87,99.4,83,46,Yes,Not Survived
+293,5,98,96.3,92,35,Yes,Survived
+294,12,95,97.7,80,66,No,Survived
+295,26,79,99.5,92,61,Yes,Not Survived
+296,30,78,99.2,110,66,Yes,Not Survived
+297,9,98,98.1,72,42,No,Survived
+298,4,95,97.1,75,27,Yes,Survived
+299,7,93,97.9,98,40,No,Survived
+300,9,96,96.6,76,25,No,Survived
+301,7,99,98.4,83,31,No,Survived
+302,29,85,100.1,108,63,Yes,Not Survived
+303,4,97,98.3,76,36,Yes,Survived
+304,10,77,103.9,105,50,Yes,Not Survived
+305,22,80,101.0,108,48,Yes,Not Survived
+306,12,96,97.1,85,65,No,Survived
+307,9,99,97.5,66,30,No,Survived
+308,7,98,97.8,80,59,No,Survived
+309,24,94,98.6,113,45,Yes,Not Survived
+310,15,80,100.1,117,46,Yes,Not Survived
+311,19,85,101.5,94,63,No,Not Survived
+312,13,83,101.0,110,63,No,Not Survived
+313,20,88,101.1,107,62,Yes,Not Survived
+314,1,97,101.1,89,38,Yes,Survived
+315,15,86,102.7,106,70,Yes,Not Survived
+316,28,94,98.8,118,32,No,Survived
+317,5,98,97.8,97,25,Yes,Survived
+318,8,93,97.5,100,29,No,Survived
+319,6,93,97.3,71,32,No,Survived
+320,11,93,98.8,76,43,Yes,Survived
+321,16,87,105.4,96,61,Yes,Not Survived
+322,11,87,100.9,106,69,No,Not Survived
+323,10,98,98.8,76,46,No,Survived
+324,5,93,98.6,74,32,No,Survived
+325,6,99,97.3,72,40,Yes,Survived
+326,16,83,97.5,79,66,No,Not Survived
+327,17,92,103.1,62,67,Yes,Survived
+328,25,91,99.3,90,80,Yes,Not Survived
+329,8,97,96.6,91,58,No,Survived
+330,7,99,96.6,75,49,No,Survived
+331,25,85,100.4,119,55,Yes,Not Survived
+332,15,93,96.7,95,43,No,Survived
+333,11,80,102.9,102,67,No,Not Survived
+334,10,95,96.9,83,23,No,Survived
+335,30,95,103.9,99,75,Yes,Not Survived
+336,9,95,97.8,81,29,No,Survived
+337,13,96,96.5,81,27,No,Survived
+338,28,85,100.5,110,65,No,Not Survived
+339,26,87,104.0,108,51,Yes,Not Survived
+340,8,100,97.7,63,29,Yes,Survived
+341,8,94,96.5,83,34,No,Survived
+342,18,82,102.0,106,72,Yes,Not Survived
+343,22,97,102.9,86,65,No,Not Survived
+344,16,92,101.7,108,53,Yes,Not Survived
+345,9,96,97.8,89,46,No,Survived
+346,5,96,96.1,65,30,No,Survived
+347,23,81,105.7,109,43,Yes,Not Survived
+348,12,98,97.8,81,42,No,Survived
+349,26,82,102.2,116,44,Yes,Not Survived
+350,13,83,102.6,105,48,No,Not Survived
+351,27,81,102.0,115,76,No,Not Survived
+352,23,88,100.3,109,51,No,Not Survived
+353,26,80,98.6,99,58,Yes,Not Survived
+354,28,80,99.8,101,43,Yes,Not Survived
+355,11,79,101.6,93,41,Yes,Not Survived
+356,18,78,97.8,110,42,No,Not Survived
+357,9,96,96.2,70,42,Yes,Survived
+358,21,85,102.9,99,44,Yes,Not Survived
+359,8,93,96.5,79,23,No,Survived
+360,8,97,96.4,85,39,Yes,Survived
+361,30,78,103.5,103,41,Yes,Not Survived
+362,26,90,104.6,101,72,No,Not Survived
+363,8,97,97.2,71,24,No,Survived
+364,13,97,96.2,84,64,No,Survived
+365,18,84,101.4,110,67,Yes,Not Survived
+366,15,89,104.0,99,58,Yes,Not Survived
+367,3,100,98.3,87,30,Yes,Survived
+368,6,94,96.8,66,30,Yes,Survived
+369,9,99,97.7,74,44,No,Survived
+370,9,99,97.6,65,52,Yes,Survived
+371,29,100,97.7,103,59,Yes,Not Survived
+372,29,84,102.4,118,45,No,Not Survived
+373,9,98,96.4,99,32,No,Survived
+374,19,78,100.4,90,79,Yes,Not Survived
+375,4,96,97.2,75,76,No,Survived
+376,4,96,99.6,65,32,Yes,Survived
+377,4,97,96.6,66,43,No,Survived
+378,12,97,97.0,85,22,No,Survived
+379,27,92,98.7,107,63,Yes,Not Survived
+380,8,98,98.3,71,50,Yes,Survived
+381,11,97,97.1,84,43,Yes,Survived
+382,23,85,99.7,63,37,Yes,Survived
+383,20,88,100.7,119,71,Yes,Not Survived
+384,6,93,96.6,98,49,No,Survived
+385,17,78,101.8,109,70,Yes,Not Survived
+386,10,98,98.7,78,40,No,Survived
+387,11,95,97.8,83,46,No,Survived
+388,17,91,99.0,107,76,No,Not Survived
+389,20,81,100.0,115,56,Yes,Not Survived
+390,4,95,96.6,69,49,No,Survived
+391,12,99,98.3,70,25,No,Survived
+392,12,98,98.5,73,26,No,Survived
+393,4,92,101.8,94,54,No,Survived
+394,7,100,98.1,65,23,No,Survived
+395,4,97,98.0,72,25,No,Survived
+396,7,100,98.1,82,25,Yes,Survived
+397,28,93,101.7,62,34,No,Not Survived
+398,6,99,98.6,95,24,No,Survived
+399,26,91,97.5,101,74,Yes,Not Survived
+400,10,99,98.4,86,27,No,Survived
+401,13,83,101.3,109,49,Yes,Not Survived
+402,10,95,98.9,87,22,No,Survived
+403,22,92,103.4,114,64,Yes,Not Survived
+404,5,99,96.8,86,35,No,Survived
+405,11,99,98.2,84,42,No,Survived
+406,11,93,97.8,76,30,No,Survived
+407,8,93,96.9,92,24,No,Survived
+408,3,95,96.5,68,23,Yes,Survived
+409,20,86,101.7,112,40,Yes,Not Survived
+410,30,89,102.4,96,57,Yes,Not Survived
+411,4,98,98.2,83,23,No,Survived
+412,5,98,96.6,81,40,No,Survived
+413,8,93,97.6,93,46,No,Survived
+414,26,80,100.9,102,25,Yes,Not Survived
+415,12,96,97.0,86,22,No,Survived
+416,6,94,97.8,84,30,No,Survived
+417,19,85,100.2,95,48,No,Not Survived
+418,11,75,102.1,69,20,No,Survived
+419,4,96,98.4,82,28,No,Survived
+420,12,94,97.1,87,46,No,Survived
+421,23,86,102.0,100,77,Yes,Not Survived
+422,12,94,97.4,71,46,No,Survived
+423,28,77,103.3,110,66,Yes,Not Survived
+424,4,96,98.4,75,34,No,Survived
+425,30,77,102.5,111,39,Yes,Not Survived
+426,26,85,104.1,99,60,Yes,Not Survived
+427,9,98,97.5,85,38,No,Survived
+428,22,90,102.2,117,64,Yes,Not Survived
+429,21,93,102.0,100,67,Yes,Not Survived
+430,10,97,97.1,68,33,No,Survived
+431,22,100,96.4,81,49,No,Not Survived
+432,12,99,97.8,84,24,No,Survived
+433,26,95,103.7,106,44,No,Not Survived
+434,11,93,101.6,95,52,Yes,Not Survived
+435,14,76,99.9,62,53,Yes,Not Survived
+436,10,92,97.2,80,29,No,Survived
+437,10,98,98.2,63,43,No,Survived
+438,25,89,100.6,105,43,No,Not Survived
+439,29,78,98.7,104,68,Yes,Not Survived
+440,8,96,97.0,67,42,No,Survived
+441,17,91,102.7,101,62,Yes,Not Survived
+442,22,84,97.2,90,70,Yes,Not Survived
+443,12,92,99.7,114,77,Yes,Not Survived
+444,13,78,101.5,95,77,No,Not Survived
+445,10,97,98.7,60,26,No,Survived
+446,6,94,98.1,71,24,No,Survived
+447,11,97,98.1,76,24,No,Survived
+448,30,77,103.9,90,65,Yes,Not Survived
+449,15,83,101.6,108,71,No,Not Survived
+450,29,79,103.5,99,49,Yes,Not Survived
+451,13,82,103.1,97,44,No,Not Survived
+452,7,98,97.5,69,45,No,Survived
+453,19,80,99.4,101,62,Yes,Not Survived
+454,30,90,99.1,111,70,Yes,Not Survived
+455,12,95,96.7,91,32,No,Survived
+456,10,92,97.5,88,38,No,Survived
+457,13,97,97.7,78,35,No,Survived
+458,14,84,98.1,103,61,No,Not Survived
+459,7,99,98.1,73,50,No,Survived
+460,25,83,103.8,110,46,Yes,Not Survived
+461,19,86,100.1,99,67,No,Not Survived
+462,12,98,96.9,82,34,No,Survived
+463,17,89,100.4,86,75,No,Not Survived
+464,30,85,103.2,100,57,Yes,Not Survived
+465,18,76,98.2,108,41,Yes,Not Survived
+466,28,81,102.4,120,68,Yes,Not Survived
+467,28,92,102.8,111,43,No,Not Survived
+468,15,92,100.4,112,39,Yes,Survived
+469,20,87,102.8,97,77,Yes,Not Survived
+470,29,80,101.2,66,48,Yes,Not Survived
+471,29,95,103.2,106,21,No,Survived
+472,13,94,97.9,67,45,No,Survived
+473,5,99,97.9,85,47,No,Survived
+474,8,96,97.8,67,33,No,Survived
+475,11,86,101.6,102,67,Yes,Not Survived
+476,11,93,97.5,92,26,No,Survived
+477,29,84,100.0,117,55,Yes,Not Survived
+478,14,93,97.5,71,43,No,Survived
+479,23,88,100.8,112,71,No,Not Survived
+480,11,81,105.3,119,46,Yes,Not Survived
+481,10,93,97.8,94,42,No,Survived
+482,17,93,104.5,96,22,No,Not Survived
+483,25,88,98.2,96,43,No,Not Survived
+484,19,95,97.8,120,74,Yes,Not Survived
+485,8,98,98.7,82,25,No,Survived
+486,17,85,102.2,95,40,No,Not Survived
+487,6,94,98.1,97,36,No,Survived
+488,24,94,98.8,104,48,Yes,Not Survived
+489,8,98,97.2,79,26,Yes,Survived
+490,7,92,98.0,63,44,No,Survived
+491,26,84,104.5,97,45,No,Not Survived
+492,13,97,96.9,78,27,No,Survived
+493,13,95,98.1,71,45,No,Survived
+494,21,81,101.7,111,46,No,Not Survived
+495,13,93,98.1,70,43,Yes,Survived
+496,8,94,97.7,83,36,No,Survived
+497,26,84,102.8,101,43,Yes,Not Survived
+498,7,96,96.6,61,32,No,Survived
+499,8,95,97.5,72,47,Yes,Survived
+500,18,91,99.4,108,48,No,Not Survived
+501,5,96,98.0,72,32,No,Survived
+502,10,99,97.2,90,43,Yes,Survived
+503,6,97,97.2,86,69,No,Survived
+504,1,86,99.5,80,34,No,Not Survived
+505,11,94,97.4,81,25,No,Survived
+506,11,98,97.2,77,35,No,Survived
+507,9,97,97.4,79,27,No,Survived
+508,24,82,101.4,113,32,Yes,Not Survived
+509,19,77,101.3,95,48,Yes,Not Survived
+510,16,84,97.2,82,43,No,Survived
+511,7,92,98.3,91,66,No,Survived
+512,11,95,96.7,85,54,No,Survived
+513,13,82,97.7,106,57,Yes,Not Survived
+514,23,89,105.5,119,25,No,Not Survived
+515,28,86,101.8,113,74,Yes,Not Survived
+516,26,86,103.6,98,57,No,Not Survived
+517,28,86,102.6,103,54,Yes,Not Survived
+518,2,80,101.2,65,44,Yes,Not Survived
+519,13,81,102.9,99,70,No,Not Survived
+520,7,99,97.3,73,42,No,Survived
+521,10,99,97.9,91,24,Yes,Survived
+522,23,79,100.1,106,73,No,Not Survived
+523,8,93,97.9,75,24,No,Survived
+524,20,88,103.7,98,35,Yes,Not Survived
+525,9,93,97.9,79,72,No,Survived
+526,14,97,98.6,74,49,No,Survived
+527,23,94,102.8,98,76,Yes,Not Survived
+528,23,79,100.2,104,62,Yes,Not Survived
+529,9,97,96.5,80,36,No,Survived
+530,23,86,98.7,101,42,No,Not Survived
+531,9,94,97.6,83,30,No,Survived
+532,11,78,101.5,105,67,No,Not Survived
+533,16,79,101.3,111,45,Yes,Survived
+534,8,99,96.8,86,22,No,Survived
+535,16,80,101.6,100,39,Yes,Not Survived
+536,30,79,99.1,104,56,Yes,Not Survived
+537,15,87,98.7,61,43,No,Survived
+538,29,80,103.7,117,26,No,Not Survived
+539,9,97,96.7,98,36,No,Survived
+540,18,91,101.5,116,77,Yes,Not Survived
+541,20,86,98.7,101,57,Yes,Not Survived
+542,11,94,100.4,69,61,No,Not Survived
+543,19,77,101.9,93,79,Yes,Not Survived
+544,3,96,98.5,74,28,No,Survived
+545,29,95,103.0,91,47,No,Not Survived
+546,6,97,104.4,81,48,No,Not Survived
+547,8,97,98.0,68,75,No,Survived
+548,10,94,97.1,83,71,No,Survived
+549,8,77,100.0,86,49,No,Survived
+550,19,83,99.1,97,73,Yes,Not Survived
+551,26,87,98.4,97,63,Yes,Not Survived
+552,9,98,98.7,100,34,No,Survived
+553,12,98,97.1,76,47,No,Survived
+554,10,76,100.1,96,65,No,Survived
+555,28,79,102.8,93,77,Yes,Not Survived
+556,30,89,102.2,104,75,No,Not Survived
+557,20,90,98.7,108,51,Yes,Not Survived
+558,15,78,103.4,103,63,Yes,Not Survived
+559,26,78,103.7,103,69,Yes,Not Survived
+560,27,95,101.9,100,72,Yes,Not Survived
+561,10,96,98.0,76,48,No,Survived
+562,5,92,97.5,84,22,No,Survived
+563,9,98,96.9,70,33,No,Survived
+564,15,96,97.9,79,31,No,Survived
+565,29,77,104.5,101,23,Yes,Not Survived
+566,10,97,97.2,80,24,No,Survived
+567,30,79,101.4,107,49,Yes,Not Survived
+568,30,84,102.4,113,67,Yes,Not Survived
+569,27,82,101.2,105,72,No,Not Survived
+570,29,92,103.9,103,80,Yes,Not Survived
+571,30,82,101.3,106,43,Yes,Not Survived
+572,26,84,99.2,110,30,Yes,Not Survived
+573,7,99,97.3,82,42,No,Survived
+574,8,99,96.8,77,74,No,Survived
+575,16,86,103.8,115,22,Yes,Not Survived
+576,14,89,104.5,92,64,Yes,Not Survived
+577,23,77,101.7,83,34,Yes,Survived
+578,23,81,98.1,96,63,Yes,Not Survived
+579,12,93,99.8,105,34,Yes,Not Survived
+580,5,99,98.1,81,40,No,Survived
+581,11,98,97.7,84,24,No,Survived
+582,23,79,101.1,117,47,Yes,Not Survived
+583,20,78,105.0,109,60,Yes,Not Survived
+584,10,98,98.2,86,68,No,Survived
+585,17,87,98.5,103,67,Yes,Not Survived
+586,19,86,100.6,92,57,No,Not Survived
+587,23,78,101.6,117,65,Yes,Not Survived
+588,19,79,102.2,108,58,Yes,Not Survived
+589,15,94,102.7,117,42,No,Not Survived
+590,29,83,103.5,119,37,Yes,Not Survived
+591,22,85,104.1,111,67,Yes,Not Survived
+592,25,88,102.8,97,63,Yes,Not Survived
+593,5,95,97.9,85,44,No,Survived
+594,15,94,98.0,90,25,No,Survived
+595,15,97,96.9,120,40,Yes,Survived
+596,22,93,104.6,118,70,Yes,Not Survived
+597,26,84,98.9,109,50,Yes,Not Survived
+598,14,99,96.5,88,55,No,Survived
+599,20,90,104.5,104,57,Yes,Not Survived
+600,15,88,101.0,99,66,Yes,Not Survived
+601,18,77,104.6,87,38,Yes,Not Survived
+602,24,83,99.6,105,77,No,Not Survived
+603,11,96,97.1,87,46,No,Survived
+604,18,99,104.4,109,31,Yes,Not Survived
+605,7,98,98.9,73,65,No,Survived
+606,11,98,97.1,88,31,No,Survived
+607,12,92,98.5,65,36,No,Survived
+608,16,88,100.6,113,47,Yes,Not Survived
+609,14,85,99.2,101,48,Yes,Not Survived
+610,17,89,104.6,115,48,Yes,Not Survived
+611,21,99,103.1,61,39,Yes,Not Survived
+612,11,97,98.5,97,26,No,Survived
+613,9,99,97.3,77,29,Yes,Survived
+614,5,97,97.4,72,44,Yes,Survived
+615,6,96,96.3,87,59,No,Survived
+616,7,93,97.9,91,47,No,Survived
+617,10,93,98.7,80,44,No,Survived
+618,20,88,98.7,92,47,Yes,Not Survived
+619,25,87,97.6,94,75,No,Not Survived
+620,28,84,99.2,96,49,Yes,Not Survived
+621,4,94,96.9,86,33,No,Survived
+622,24,83,99.8,90,47,Yes,Not Survived
+623,22,81,100.2,95,70,Yes,Not Survived
+624,30,84,98.7,118,77,Yes,Not Survived
+625,30,87,103.6,104,76,Yes,Not Survived
+626,26,80,97.0,113,50,Yes,Not Survived
+627,8,95,97.7,74,43,No,Survived
+628,6,99,98.8,78,43,No,Survived
+629,10,98,97.7,79,50,No,Survived
+630,23,77,102.6,103,73,Yes,Not Survived
+631,9,94,98.2,64,22,No,Survived
+632,26,80,104.9,107,52,Yes,Not Survived
+633,8,92,97.7,87,31,No,Survived
+634,11,94,97.1,71,24,No,Survived
+635,10,93,97.0,70,24,No,Survived
+636,12,95,97.3,82,29,Yes,Survived
+637,4,97,96.6,78,25,Yes,Survived
+638,9,97,102.8,61,51,Yes,Not Survived
+639,12,100,98.3,71,42,No,Survived
+640,26,83,98.7,95,48,Yes,Not Survived
+641,7,92,98.0,64,45,No,Survived
+642,8,97,98.2,92,36,No,Survived
+643,6,96,98.6,86,31,No,Survived
+644,23,95,99.5,98,62,Yes,Not Survived
+645,12,96,97.6,94,22,Yes,Survived
+646,11,95,96.7,63,44,No,Survived
+647,24,78,102.4,98,79,Yes,Not Survived
+648,23,86,98.9,91,45,Yes,Survived
+649,10,99,96.7,89,66,No,Survived
+650,21,91,100.8,112,49,Yes,Not Survived
+651,8,94,96.3,100,25,No,Survived
+652,26,83,102.6,117,67,No,Not Survived
+653,20,85,105.7,101,71,Yes,Not Survived
+654,9,94,98.1,80,38,No,Survived
+655,10,95,96.9,81,64,No,Survived
+656,11,94,97.8,94,34,No,Survived
+657,24,88,103.5,97,65,No,Not Survived
+658,11,96,96.5,68,35,No,Survived
+659,23,83,102.4,104,67,Yes,Not Survived
+660,8,100,97.1,74,26,Yes,Survived
+661,18,80,99.6,97,71,Yes,Not Survived
+662,14,95,96.7,95,27,Yes,Survived
+663,16,93,97.3,97,60,No,Not Survived
+664,14,95,100.4,98,48,Yes,Not Survived
+665,21,81,100.1,109,47,Yes,Not Survived
+666,12,97,97.3,94,49,No,Survived
+667,7,97,96.5,87,39,No,Survived
+668,11,96,96.8,92,37,No,Survived
+669,9,92,97.8,96,22,No,Survived
+670,4,100,97.4,69,45,Yes,Survived
+671,9,99,98.7,90,30,No,Survived
+672,14,97,96.4,94,47,No,Survived
+673,8,97,96.5,89,39,No,Survived
+674,9,98,97.5,91,30,No,Survived
+675,5,95,98.8,67,24,No,Survived
+676,12,99,97.0,68,60,Yes,Survived
+677,29,91,99.5,103,32,Yes,Not Survived
+678,21,84,100.1,93,71,Yes,Not Survived
+679,27,82,98.5,105,42,Yes,Not Survived
+680,28,85,104.4,99,35,Yes,Not Survived
+681,28,86,100.2,91,50,Yes,Not Survived
+682,10,96,98.3,64,32,No,Survived
+683,3,97,97.7,91,42,No,Survived
+684,8,89,98.3,72,32,No,Survived
+685,29,93,100.9,112,49,Yes,Not Survived
+686,24,88,101.9,120,53,No,Not Survived
+687,9,95,96.8,87,29,No,Survived
+688,4,96,97.3,86,45,Yes,Survived
+689,28,87,97.3,116,50,No,Not Survived
+690,7,98,98.6,74,49,Yes,Survived
+691,11,78,104.3,119,44,No,Not Survived
+692,4,93,96.7,67,22,No,Survived
+693,14,81,105.1,98,62,Yes,Not Survived
+694,15,94,97.7,95,58,No,Not Survived
+695,28,79,103.7,116,63,Yes,Not Survived
+696,9,93,96.8,75,42,No,Survived
+697,16,82,104.1,97,74,Yes,Not Survived
+698,8,96,97.8,84,43,No,Survived
+699,5,98,96.9,77,27,Yes,Survived
+700,9,94,97.7,96,25,No,Survived
+701,27,84,100.9,100,58,No,Not Survived
+702,25,84,100.3,110,59,Yes,Not Survived
+703,8,96,96.0,83,25,No,Survived
+704,27,97,96.1,112,71,Yes,Survived
+705,15,86,99.1,94,45,Yes,Not Survived
+706,26,89,97.0,106,71,No,Not Survived
+707,4,93,96.3,84,42,No,Survived
+708,9,81,104.8,88,34,No,Not Survived
+709,23,83,100.7,105,38,Yes,Not Survived
+710,3,95,96.3,80,38,No,Survived
+711,20,82,101.0,112,70,Yes,Not Survived
+712,21,80,98.1,100,57,Yes,Not Survived
+713,6,100,96.8,74,66,Yes,Survived
+714,10,99,97.7,85,56,No,Survived
+715,20,80,100.7,102,44,No,Not Survived
+716,21,88,98.3,116,67,Yes,Not Survived
+717,7,97,98.6,88,49,No,Survived
+718,5,97,98.0,85,43,No,Survived
+719,4,99,98.9,89,28,No,Survived
+720,10,86,98.2,112,50,Yes,Not Survived
+721,19,82,102.9,97,42,Yes,Not Survived
+722,10,93,97.2,89,45,No,Survived
+723,8,98,97.7,86,43,No,Survived
+724,22,89,100.6,95,74,Yes,Not Survived
+725,20,85,105.8,100,79,Yes,Not Survived
+726,28,81,100.9,104,56,Yes,Not Survived
+727,15,96,97.1,82,28,No,Survived
+728,8,97,98.0,87,44,No,Survived
+729,10,94,97.9,88,28,No,Survived
+730,10,97,97.6,76,46,No,Survived
+731,14,79,100.7,110,80,Yes,Not Survived
+732,9,97,96.3,76,44,No,Survived
+733,10,98,98.2,83,29,No,Survived
+734,30,89,101.0,110,74,Yes,Not Survived
+735,6,96,96.8,62,30,Yes,Survived
+736,11,96,97.7,84,28,No,Survived
+737,9,95,96.7,76,32,No,Survived
+738,15,97,97.7,75,48,No,Survived
+739,18,86,97.8,95,34,No,Not Survived
+740,10,93,96.3,68,30,No,Survived
+741,16,82,99.0,88,28,Yes,Not Survived
+742,25,89,98.2,95,45,No,Not Survived
+743,22,78,101.9,104,53,Yes,Not Survived
+744,13,84,98.5,108,44,Yes,Survived
+745,29,95,101.5,96,64,Yes,Not Survived
+746,19,85,101.2,98,67,No,Not Survived
+747,9,97,98.7,90,29,No,Survived
+748,28,83,105.1,96,30,Yes,Not Survived
+749,18,86,105.9,107,49,Yes,Not Survived
+750,23,89,99.9,103,45,Yes,Not Survived
+751,4,100,98.4,74,29,No,Survived
+752,29,87,104.3,105,60,No,Not Survived
+753,16,85,102.9,108,62,Yes,Not Survived
+754,24,94,100.1,114,50,Yes,Not Survived
+755,14,85,101.9,106,78,No,Not Survived
+756,29,82,105.1,110,38,Yes,Not Survived
+757,27,81,102.1,108,70,No,Not Survived
+758,13,97,97.3,69,26,Yes,Survived
+759,22,79,102.5,103,44,Yes,Not Survived
+760,22,83,104.0,102,74,Yes,Not Survived
+761,15,93,102.4,94,66,Yes,Not Survived
+762,20,87,102.0,117,73,Yes,Not Survived
+763,24,79,101.2,111,78,Yes,Not Survived
+764,25,82,102.1,104,66,No,Survived
+765,7,100,98.5,100,24,Yes,Survived
+766,19,86,98.9,106,48,Yes,Not Survived
+767,29,92,105.6,96,44,Yes,Not Survived
+768,27,82,97.2,100,70,No,Not Survived
+769,25,85,105.7,116,76,Yes,Not Survived
+770,30,77,105.3,107,46,Yes,Not Survived
+771,16,83,105.1,94,70,No,Not Survived
+772,10,95,96.9,78,26,No,Survived
+773,12,98,97.2,88,43,No,Survived
+774,9,98,98.8,95,79,No,Survived
+775,8,94,97.8,87,42,No,Survived
+776,30,81,102.5,99,39,No,Not Survived
+777,14,99,96.8,89,42,No,Survived
+778,27,84,99.9,115,41,Yes,Not Survived
+779,12,86,103.9,102,76,Yes,Not Survived
+780,12,95,98.0,70,36,No,Survived
+781,25,78,102.4,97,49,Yes,Not Survived
+782,23,87,101.4,96,36,Yes,Not Survived
+783,11,78,101.5,98,70,Yes,Not Survived
+784,3,96,98.8,88,80,No,Survived
+785,9,97,96.3,76,47,No,Survived
+786,13,97,97.0,85,29,No,Survived
+787,14,78,101.6,97,57,Yes,Not Survived
+788,17,91,102.8,119,42,Yes,Not Survived
+789,16,92,104.0,112,58,Yes,Not Survived
+790,4,98,98.6,79,42,No,Survived
+791,5,96,96.9,79,53,No,Survived
+792,10,94,96.6,78,45,No,Survived
+793,14,78,98.0,100,79,Yes,Not Survived
+794,11,98,97.5,94,46,No,Survived
+795,28,84,104.1,109,43,Yes,Not Survived
+796,19,77,102.0,115,57,Yes,Not Survived
+797,3,92,96.4,91,40,Yes,Survived
+798,11,95,97.7,73,40,No,Survived
+799,24,82,98.5,101,71,Yes,Not Survived
+800,10,97,97.1,62,26,No,Survived
+801,27,92,101.4,114,71,Yes,Not Survived
+802,26,78,104.9,99,45,No,Not Survived
+803,23,89,105.9,98,73,Yes,Not Survived
+804,22,95,101.9,106,39,Yes,Not Survived
+805,8,97,96.5,80,24,No,Survived
+806,23,75,98.3,80,59,No,Survived
+807,10,100,96.1,90,30,No,Survived
+808,30,79,104.7,76,54,No,Survived
+809,29,89,103.6,111,33,Yes,Not Survived
+810,24,97,98.6,81,74,No,Survived
+811,5,94,97.3,71,44,No,Survived
+812,4,76,97.4,77,41,No,Not Survived
+813,7,83,104.4,72,52,Yes,Survived
+814,5,96,98.9,98,62,No,Survived
+815,5,93,98.0,63,47,No,Survived
+816,11,77,99.7,102,79,Yes,Not Survived
+817,27,81,101.9,85,72,No,Not Survived
+818,15,81,100.7,101,70,Yes,Not Survived
+819,19,83,102.8,109,46,Yes,Not Survived
+820,8,99,98.5,90,29,No,Survived
+821,19,89,98.0,101,43,Yes,Not Survived
+822,11,95,98.5,91,26,No,Survived
+823,27,88,101.5,107,73,Yes,Not Survived
+824,5,95,98.4,88,29,No,Survived
+825,26,82,105.6,106,61,No,Not Survived
+826,9,95,98.0,69,32,No,Survived
+827,8,97,97.0,75,50,No,Survived
+828,9,83,96.6,82,50,No,Not Survived
+829,18,91,100.9,100,57,No,Not Survived
+830,28,79,101.7,105,77,Yes,Not Survived
+831,14,87,100.9,114,37,Yes,Survived
+832,11,96,96.5,78,43,No,Survived
+833,14,94,96.5,91,44,No,Survived
+834,23,78,97.4,107,53,Yes,Not Survived
+835,14,96,98.2,69,79,No,Survived
+836,29,84,102.1,120,63,Yes,Not Survived
+837,22,88,103.6,97,65,Yes,Not Survived
+838,3,97,97.9,86,45,No,Survived
+839,12,93,97.8,90,43,No,Survived
+840,30,88,100.6,97,52,Yes,Not Survived
+841,13,96,98.5,64,43,No,Survived
+842,25,87,99.0,96,49,No,Not Survived
+843,8,99,96.9,82,52,No,Survived
+844,24,95,103.0,101,80,Yes,Not Survived
+845,4,95,98.1,75,47,Yes,Survived
+846,8,94,98.3,76,47,No,Survived
+847,24,84,103.3,94,29,Yes,Not Survived
+848,17,84,98.6,109,48,Yes,Not Survived
+849,9,94,97.7,72,30,No,Survived
+850,30,94,103.4,91,41,Yes,Not Survived
+851,6,94,96.8,98,79,No,Survived
+852,19,86,97.9,115,46,No,Not Survived
+853,4,99,96.4,74,22,No,Survived
+854,22,87,97.2,82,40,No,Survived
+855,12,97,96.4,92,58,No,Survived
+856,7,92,98.4,61,45,Yes,Survived
+857,11,96,98.1,89,48,No,Survived
+858,18,83,98.3,99,54,Yes,Not Survived
+859,15,93,96.2,67,42,No,Survived
+860,29,78,101.3,115,53,Yes,Not Survived
+861,11,96,96.4,84,38,No,Survived
+862,16,84,96.6,74,55,No,Not Survived
+863,12,97,97.7,66,44,No,Survived
+864,21,79,98.6,108,75,Yes,Not Survived
+865,4,98,98.5,71,31,No,Survived
+866,23,88,100.2,111,58,Yes,Not Survived
+867,4,93,96.8,74,27,No,Survived
+868,4,99,98.0,76,25,No,Survived
+869,22,85,98.7,108,60,Yes,Not Survived
+870,17,78,104.7,103,72,Yes,Not Survived
+871,20,87,98.1,118,77,No,Not Survived
+872,15,99,98.6,71,32,Yes,Survived
+873,18,88,104.7,107,42,Yes,Not Survived
+874,5,98,98.8,67,70,No,Survived
+875,29,79,101.3,91,76,Yes,Not Survived
+876,9,95,97.3,63,35,No,Survived
+877,10,95,97.7,82,43,No,Survived
+878,24,77,101.8,107,79,Yes,Not Survived
+879,5,93,98.0,94,25,Yes,Survived
+880,7,97,96.3,73,49,No,Survived
+881,13,99,97.3,86,48,No,Survived
+882,14,99,97.6,69,30,No,Survived
+883,30,83,103.4,96,73,Yes,Not Survived
+884,22,87,97.4,101,64,Yes,Not Survived
+885,13,85,104.2,110,49,Yes,Not Survived
+886,11,97,97.5,78,29,No,Survived
+887,24,83,98.9,97,57,No,Not Survived
+888,11,99,98.4,60,42,No,Survived
+889,25,95,99.6,102,77,No,Not Survived
+890,12,82,99.6,109,65,Yes,Not Survived
+891,30,92,98.6,71,35,No,Survived
+892,11,98,97.7,76,46,No,Survived
+893,18,86,104.5,106,74,Yes,Not Survived
+894,9,97,98.2,83,32,No,Survived
+895,10,99,98.5,98,32,No,Survived
+896,25,86,102.4,106,63,Yes,Not Survived
+897,9,97,98.2,98,27,No,Survived
+898,9,97,98.0,86,22,No,Survived
+899,13,86,98.6,107,79,Yes,Not Survived
+900,5,85,100.4,76,60,No,Survived
+901,26,89,104.6,108,45,Yes,Not Survived
+902,26,87,103.0,101,51,No,Not Survived
+903,22,78,104.3,111,76,Yes,Not Survived
+904,17,78,99.3,114,73,Yes,Not Survived
+905,5,92,98.5,77,30,No,Survived
+906,20,90,101.7,91,50,No,Not Survived
+907,12,81,102.9,107,24,Yes,Not Survived
+908,24,89,100.9,107,73,No,Not Survived
+909,4,99,96.2,75,24,No,Survived
+910,10,97,98.5,92,31,No,Survived
+911,3,100,97.7,77,50,Yes,Survived
+912,12,100,99.7,119,70,No,Not Survived
+913,21,87,102.2,108,33,No,Not Survived
+914,7,100,98.2,97,46,No,Survived
+915,12,94,97.9,99,52,No,Survived
+916,14,95,97.8,75,31,No,Survived
+917,25,86,100.5,100,73,Yes,Not Survived
+918,11,97,97.4,83,47,Yes,Survived
+919,8,92,96.4,97,22,No,Survived
+920,9,80,104.8,69,46,Yes,Survived
+921,9,100,96.8,74,35,No,Survived
+922,23,81,105.7,100,49,Yes,Not Survived
+923,5,98,98.0,92,32,No,Survived
+924,15,98,96.2,86,27,No,Survived
+925,27,77,104.8,102,42,No,Not Survived
+926,8,93,96.5,87,47,No,Survived
+927,8,94,97.5,73,25,No,Survived
+928,1,96,96.4,93,69,Yes,Not Survived
+929,29,76,97.3,69,80,Yes,Not Survived
+930,23,94,101.3,101,53,No,Not Survived
+931,25,91,100.9,98,67,Yes,Not Survived
+932,4,99,98.8,63,45,No,Survived
+933,30,86,99.0,98,80,No,Not Survived
+934,4,93,97.2,75,44,No,Survived
+935,5,93,97.9,81,42,No,Survived
+936,22,89,104.6,110,54,Yes,Not Survived
+937,14,94,96.7,93,31,No,Survived
+938,18,81,104.8,84,22,Yes,Not Survived
+939,9,93,96.9,90,24,No,Survived
+940,28,90,103.3,104,47,Yes,Not Survived
+941,12,87,101.3,108,42,Yes,Not Survived
+942,3,79,100.2,112,54,No,Survived
+943,3,99,96.7,85,42,Yes,Survived
+944,5,99,97.3,78,26,Yes,Survived
+945,20,82,102.0,91,80,Yes,Not Survived
+946,29,77,105.2,110,40,Yes,Not Survived
+947,9,96,98.3,86,29,No,Survived
+948,29,88,102.3,105,42,Yes,Not Survived
+949,25,84,103.2,112,41,No,Not Survived
+950,9,94,97.8,62,48,Yes,Survived
+951,11,95,97.9,79,49,No,Survived
+952,12,96,96.9,60,40,No,Survived
+953,19,89,100.7,100,21,No,Not Survived
+954,24,80,99.8,112,47,Yes,Not Survived
+955,25,89,100.9,100,77,No,Not Survived
+956,11,93,97.2,67,47,No,Survived
+957,9,99,97.4,68,30,No,Survived
+958,24,77,100.5,110,43,Yes,Not Survived
+959,26,87,98.9,98,61,No,Not Survived
+960,23,79,99.5,114,72,Yes,Not Survived
+961,22,83,101.5,110,70,Yes,Not Survived
+962,27,84,98.6,107,78,Yes,Not Survived
+963,10,96,96.7,71,29,No,Survived
+964,13,80,97.4,67,21,Yes,Not Survived
+965,16,83,100.4,113,50,Yes,Not Survived
+966,10,100,96.8,76,27,No,Survived
+967,11,96,98.1,77,66,Yes,Survived
+968,12,86,98.6,99,46,Yes,Not Survived
+969,24,78,97.8,110,76,Yes,Not Survived
+970,20,85,99.6,117,65,Yes,Not Survived
+971,22,80,98.3,93,46,Yes,Not Survived
+972,15,80,104.6,102,47,Yes,Not Survived
+973,4,98,98.6,80,62,No,Survived
+974,9,93,96.4,87,43,No,Survived
+975,30,88,102.8,107,39,Yes,Not Survived
+976,19,90,100.6,77,68,Yes,Survived
+977,21,82,100.0,118,80,No,Not Survived
+978,20,85,103.8,108,70,Yes,Not Survived
+979,22,88,98.8,100,50,No,Not Survived
+980,6,96,96.4,72,22,No,Survived
+981,15,87,98.0,103,45,Yes,Not Survived
+982,24,83,101.9,110,40,Yes,Not Survived
+983,5,93,98.3,78,61,No,Survived
+984,8,92,98.2,90,37,No,Survived
+985,8,99,97.2,90,35,No,Survived
+986,13,92,97.7,84,29,No,Survived
+987,14,95,98.3,80,33,No,Survived
+988,8,94,97.8,68,42,No,Survived
+989,9,95,96.4,100,25,No,Survived
+990,19,85,99.9,90,50,Yes,Not Survived
+991,9,96,97.5,82,47,No,Survived
+992,6,99,96.6,70,30,Yes,Survived
+993,11,80,99.2,107,59,No,Not Survived
+994,9,100,96.2,91,33,Yes,Survived
+995,18,81,102.4,103,67,Yes,Not Survived
+996,21,93,104.1,118,46,No,Not Survived
+997,24,79,100.4,67,78,No,Survived
+998,25,77,102.2,95,44,Yes,Not Survived
+999,23,79,103.3,103,54,No,Survived
+1000,24,79,103.0,112,40,Yes,Not Survived
+1001,29,77,104.6,94,68,Yes,Not Survived
+1002,11,99,96.4,88,45,No,Survived
+1003,5,96,96.6,75,47,No,Survived
+1004,28,87,99.1,96,48,No,Not Survived
+1005,24,77,98.2,108,56,Yes,Not Survived
+1006,8,96,97.9,86,76,No,Survived
+1007,11,97,98.6,66,28,No,Survived
+1008,21,90,102.9,107,80,Yes,Not Survived
+1009,27,88,102.2,106,73,Yes,Not Survived
+1010,10,92,98.4,90,69,Yes,Survived
+1011,29,81,97.9,108,50,Yes,Not Survived
+1012,26,92,103.8,105,66,No,Not Survived
+1013,27,87,105.3,93,36,No,Not Survived
+1014,14,99,96.8,97,53,Yes,Survived
+1015,16,85,98.7,75,29,Yes,Survived
+1016,6,99,98.4,89,30,No,Survived
+1017,11,93,98.9,70,22,No,Survived
+1018,9,99,97.0,88,28,No,Survived
+1019,24,75,96.1,102,66,No,Survived
+1020,13,95,96.3,79,48,No,Survived
+1021,29,91,101.2,96,44,Yes,Not Survived
+1022,22,81,101.4,99,58,Yes,Not Survived
+1023,23,79,100.3,98,68,Yes,Not Survived
+1024,11,97,98.6,76,43,No,Survived
+1025,8,97,97.2,92,44,No,Survived
+1026,9,96,98.3,72,49,No,Survived
+1027,21,77,104.3,103,73,Yes,Not Survived
+1028,25,86,101.7,114,29,No,Not Survived
+1029,14,93,98.7,72,29,No,Survived
+1030,20,97,97.7,66,46,Yes,Not Survived
+1031,3,94,97.1,69,48,No,Survived
+1032,23,85,103.3,72,57,No,Survived
+1033,26,78,98.4,103,78,Yes,Not Survived
+1034,27,91,102.5,116,75,Yes,Not Survived
+1035,5,94,97.5,81,43,No,Survived
+1036,30,78,101.2,107,59,Yes,Not Survived
+1037,11,96,96.2,71,46,No,Survived
+1038,20,91,101.1,92,59,Yes,Not Survived
+1039,10,79,102.5,117,47,Yes,Not Survived
+1040,13,96,96.5,96,35,No,Survived
+1041,19,84,104.4,107,73,No,Not Survived
+1042,19,77,100.2,95,58,Yes,Not Survived
+1043,18,85,101.5,105,46,No,Not Survived
+1044,29,93,104.2,102,21,Yes,Not Survived
+1045,29,83,102.9,97,78,Yes,Not Survived
+1046,25,77,103.2,99,58,Yes,Not Survived
+1047,6,98,97.0,67,31,No,Survived
+1048,4,95,97.2,110,55,Yes,Survived
+1049,29,92,103.0,112,68,Yes,Not Survived
+1050,10,96,97.1,86,31,No,Survived
+1051,8,96,96.5,67,44,No,Survived
+1052,11,98,97.8,79,23,No,Survived
+1053,26,80,104.6,103,75,Yes,Not Survived
+1054,9,98,96.6,81,36,Yes,Survived
+1055,7,96,98.6,99,22,No,Survived
+1056,30,89,102.9,108,54,Yes,Not Survived
+1057,28,77,104.9,106,79,Yes,Not Survived
+1058,26,80,105.0,118,60,Yes,Not Survived
+1059,12,79,101.3,107,78,Yes,Not Survived
+1060,22,81,100.0,112,76,Yes,Survived
+1061,7,96,97.0,68,33,Yes,Survived
+1062,21,78,101.0,104,50,Yes,Not Survived
+1063,14,92,103.8,118,49,Yes,Not Survived
+1064,9,97,97.8,79,40,No,Survived
+1065,16,90,102.9,108,74,Yes,Not Survived
+1066,6,98,98.4,78,22,No,Survived
+1067,29,84,100.9,104,66,Yes,Not Survived
+1068,6,97,96.4,97,42,No,Survived
+1069,10,97,98.0,96,25,No,Survived
+1070,12,98,96.6,83,31,No,Survived
+1071,27,80,103.6,109,67,Yes,Not Survived
+1072,14,89,102.6,99,57,No,Not Survived
+1073,18,79,98.4,110,63,Yes,Not Survived
+1074,4,95,98.4,97,26,No,Survived
+1075,8,98,98.9,97,23,No,Survived
+1076,6,95,96.4,75,29,No,Survived
+1077,10,97,96.9,74,37,No,Survived
+1078,9,97,97.4,64,37,No,Survived
+1079,18,83,100.3,111,49,Yes,Not Survived
+1080,28,78,99.8,103,50,Yes,Not Survived
+1081,14,98,98.4,83,32,No,Survived
+1082,30,92,102.3,100,37,Yes,Not Survived
+1083,6,95,96.9,98,28,No,Survived
+1084,14,82,102.5,109,50,Yes,Not Survived
+1085,20,87,99.9,105,70,No,Not Survived
+1086,11,98,96.4,79,43,Yes,Survived
+1087,29,81,99.6,98,44,No,Not Survived
+1088,8,80,97.3,108,76,No,Survived
+1089,23,83,101.8,99,73,Yes,Not Survived
+1090,8,95,97.1,87,23,No,Survived
+1091,12,95,97.8,64,35,No,Survived
+1092,10,96,97.8,92,47,No,Survived
+1093,13,95,96.7,74,27,No,Survived
+1094,25,81,104.7,108,77,Yes,Not Survived
+1095,16,81,98.1,113,68,Yes,Not Survived
+1096,16,78,98.3,117,50,Yes,Survived
+1097,9,97,97.0,79,25,No,Survived
+1098,12,93,98.7,93,23,No,Survived
+1099,7,80,103.1,81,80,No,Survived
+1100,13,97,96.2,62,39,No,Survived
+1101,30,79,101.1,96,61,Yes,Not Survived
+1102,24,86,102.7,102,46,No,Not Survived
+1103,8,96,97.9,88,31,No,Survived
+1104,10,95,97.8,75,34,No,Survived
+1105,23,81,98.5,105,26,Yes,Not Survived
+1106,18,86,99.5,113,76,Yes,Not Survived
+1107,20,87,102.0,116,36,Yes,Not Survived
+1108,20,88,104.2,95,36,Yes,Not Survived
+1109,24,94,100.3,109,76,Yes,Not Survived
+1110,12,98,97.0,78,48,No,Survived
+1111,8,98,97.7,77,47,No,Survived
+1112,11,99,96.1,65,28,No,Survived
+1113,8,95,96.7,96,44,Yes,Survived
+1114,6,96,97.0,90,35,No,Survived
+1115,8,94,96.8,85,76,No,Survived
+1116,9,99,97.2,88,27,No,Survived
+1117,13,95,101.0,101,41,Yes,Not Survived
+1118,26,90,98.6,96,63,No,Not Survived
+1119,8,96,96.1,88,50,No,Survived
+1120,30,86,100.8,106,25,No,Not Survived
+1121,30,90,99.8,106,46,Yes,Not Survived
+1122,24,90,102.8,110,25,No,Not Survived
+1123,3,99,102.6,69,23,Yes,Survived
+1124,25,84,101.7,103,50,Yes,Not Survived
+1125,10,92,103.4,106,30,Yes,Not Survived
+1126,12,99,98.2,92,34,Yes,Survived
+1127,29,87,101.7,108,66,Yes,Not Survived
+1128,21,85,104.4,104,37,Yes,Not Survived
+1129,8,94,97.0,94,47,No,Survived
+1130,10,96,97.8,63,43,No,Survived
+1131,27,83,104.6,111,80,Yes,Not Survived
+1132,12,95,97.6,68,49,No,Survived
+1133,14,98,98.0,89,42,No,Survived
+1134,3,97,98.5,81,45,Yes,Survived
+1135,8,95,98.4,77,45,Yes,Survived
+1136,11,98,98.5,87,33,No,Survived
+1137,12,96,96.4,98,35,No,Survived
+1138,29,87,101.4,105,77,Yes,Not Survived
+1139,28,79,104.1,102,74,Yes,Not Survived
+1140,5,94,98.3,76,27,Yes,Survived
+1141,10,84,102.8,111,60,Yes,Not Survived
+1142,6,98,96.9,82,24,No,Survived
+1143,8,99,97.8,79,33,Yes,Survived
+1144,27,85,102.0,96,72,Yes,Not Survived
+1145,5,98,99.0,115,51,Yes,Not Survived
+1146,14,94,96.8,83,47,No,Survived
+1147,29,99,99.5,91,60,No,Survived
+1148,9,94,97.3,70,31,No,Survived
+1149,20,90,100.7,108,69,Yes,Not Survived
+1150,13,88,101.5,101,80,Yes,Not Survived
+1151,10,99,96.9,87,58,No,Survived
+1152,7,93,97.5,80,35,No,Survived
+1153,10,97,97.6,83,46,No,Survived
+1154,7,94,96.1,69,46,No,Survived
+1155,28,83,98.6,102,79,Yes,Not Survived
+1156,26,82,100.3,113,47,Yes,Not Survived
+1157,6,94,97.6,79,33,No,Survived
+1158,28,81,99.4,99,67,Yes,Not Survived
+1159,17,91,104.3,105,65,No,Not Survived
+1160,7,95,98.3,70,43,No,Survived
+1161,25,84,99.2,119,46,Yes,Not Survived
+1162,21,79,99.4,104,42,Yes,Not Survived
+1163,28,79,99.1,115,48,Yes,Not Survived
+1164,1,100,104.9,102,30,No,Survived
+1165,5,93,98.0,73,42,No,Survived
+1166,25,83,104.2,106,57,Yes,Not Survived
+1167,29,88,104.1,104,75,Yes,Not Survived
+1168,4,96,98.5,79,23,Yes,Survived
+1169,11,100,97.5,93,37,Yes,Survived
+1170,12,81,100.7,96,72,Yes,Not Survived
+1171,13,81,105.4,97,64,No,Not Survived
+1172,25,78,98.3,118,71,Yes,Not Survived
+1173,26,78,105.4,114,73,Yes,Not Survived
+1174,6,97,96.9,90,47,No,Survived
+1175,10,96,98.4,78,54,No,Survived
+1176,12,84,99.1,98,49,Yes,Not Survived
+1177,13,98,97.2,77,26,No,Survived
+1178,28,95,99.0,104,43,No,Not Survived
+1179,8,98,97.9,67,43,Yes,Survived
+1180,9,79,99.6,110,66,Yes,Not Survived
+1181,6,96,98.4,78,29,No,Survived
+1182,13,81,98.8,114,80,Yes,Not Survived
+1183,20,82,98.3,98,63,No,Not Survived
+1184,24,79,103.1,105,65,Yes,Not Survived
+1185,26,84,102.2,91,69,Yes,Not Survived
+1186,24,84,99.7,99,67,No,Not Survived
+1187,12,97,97.1,79,74,Yes,Survived
+1188,17,81,99.9,62,62,No,Survived
+1189,4,95,96.3,72,34,No,Survived
+1190,21,76,96.7,98,46,Yes,Not Survived
+1191,12,98,96.1,71,31,No,Survived
+1192,10,93,97.6,78,58,No,Survived
+1193,17,98,99.9,98,49,No,Not Survived
+1194,23,81,102.9,115,71,Yes,Not Survived
+1195,6,98,97.5,90,30,No,Survived
+1196,11,86,101.6,114,46,Yes,Not Survived
+1197,8,92,98.5,61,42,No,Survived
+1198,18,83,99.4,102,37,Yes,Not Survived
+1199,9,94,97.0,83,31,No,Survived
+1200,5,100,98.1,91,48,Yes,Survived
+1201,19,89,100.0,63,55,Yes,Not Survived
+1202,5,95,96.8,67,22,No,Survived
+1203,12,96,96.3,67,43,No,Survived
+1204,29,84,100.1,115,53,Yes,Not Survived
+1205,25,80,101.3,113,74,No,Not Survived
+1206,14,94,96.4,77,23,No,Survived
+1207,20,90,100.8,102,78,Yes,Not Survived
+1208,17,79,98.7,60,46,Yes,Not Survived
+1209,28,82,105.0,101,44,Yes,Not Survived
+1210,18,89,97.6,103,62,Yes,Not Survived
+1211,21,91,100.9,109,69,No,Not Survived
+1212,3,95,97.4,66,25,No,Survived
+1213,29,79,103.9,108,67,No,Not Survived
+1214,18,77,100.7,107,79,Yes,Not Survived
+1215,4,96,97.4,65,24,No,Survived
+1216,17,86,101.8,106,48,Yes,Not Survived
+1217,13,96,98.2,68,22,No,Survived
+1218,23,91,100.6,104,48,Yes,Not Survived
+1219,28,95,100.8,62,69,No,Not Survived
+1220,8,99,98.1,83,27,No,Survived
+1221,28,81,99.1,92,42,No,Not Survived
+1222,12,96,98.2,77,25,No,Survived
+1223,13,94,97.0,81,38,No,Survived
+1224,18,98,104.2,120,20,No,Not Survived
+1225,12,93,98.4,78,29,Yes,Survived
+1226,5,93,97.4,77,24,No,Survived
+1227,5,96,97.3,83,24,No,Survived
+1228,17,79,101.6,112,77,Yes,Not Survived
+1229,22,86,102.7,112,62,Yes,Not Survived
+1230,9,95,98.1,69,31,No,Survived
+1231,6,94,96.7,78,43,No,Survived
+1232,8,96,96.6,71,38,No,Survived
+1233,7,98,96.3,85,36,No,Survived
+1234,12,97,104.7,61,75,No,Not Survived
+1235,29,93,98.4,107,72,Yes,Not Survived
+1236,12,77,96.9,80,72,No,Survived
+1237,24,83,102.7,97,49,Yes,Not Survived
+1238,30,80,102.1,107,40,No,Not Survived
+1239,28,82,105.2,96,46,No,Not Survived
+1240,13,90,102.8,99,69,Yes,Not Survived
+1241,18,91,101.7,95,60,No,Not Survived
+1242,23,86,99.4,109,65,Yes,Not Survived
+1243,22,85,97.1,81,75,Yes,Not Survived
+1244,15,97,97.3,80,24,No,Survived
+1245,15,89,97.8,107,27,Yes,Survived
+1246,7,94,98.0,65,35,No,Survived
+1247,3,94,98.6,75,42,Yes,Survived
+1248,16,85,101.0,105,26,No,Not Survived
+1249,3,94,97.6,91,23,No,Survived
+1250,27,89,104.8,99,50,Yes,Not Survived
+1251,15,83,102.1,105,71,No,Not Survived
+1252,10,93,98.6,73,43,No,Survived
+1253,6,84,99.5,88,37,Yes,Not Survived
+1254,3,100,97.5,87,54,No,Survived
+1255,12,94,97.6,89,36,No,Survived
+1256,15,99,97.9,96,25,No,Survived
+1257,30,87,103.9,107,66,Yes,Not Survived
+1258,30,84,102.1,99,46,Yes,Not Survived
+1259,29,84,99.5,98,61,No,Not Survived
+1260,5,100,97.5,86,22,Yes,Survived
+1261,22,77,105.3,97,65,Yes,Not Survived
+1262,7,77,104.4,109,62,No,Survived
+1263,14,77,102.3,112,46,Yes,Not Survived
+1264,13,98,97.5,97,26,No,Survived
+1265,25,78,101.2,105,43,Yes,Not Survived
+1266,5,94,96.4,89,43,No,Survived
+1267,3,92,96.8,70,27,No,Survived
+1268,6,94,97.0,94,31,No,Survived
+1269,30,87,100.9,100,59,Yes,Not Survived
+1270,5,95,97.5,81,38,No,Survived
+1271,29,88,98.3,106,74,No,Not Survived
+1272,17,77,102.4,90,69,Yes,Not Survived
+1273,14,96,98.3,82,31,No,Survived
+1274,23,85,100.9,99,66,Yes,Not Survived
+1275,7,91,103.7,77,37,Yes,Not Survived
+1276,9,99,97.6,98,28,Yes,Survived
+1277,17,89,97.9,109,78,Yes,Not Survived
+1278,8,95,99.6,108,24,Yes,Not Survived
+1279,24,84,96.5,86,43,Yes,Survived
+1280,8,78,104.6,105,79,Yes,Not Survived
+1281,7,91,100.3,90,67,Yes,Survived
+1282,16,90,103.6,106,56,Yes,Not Survived
+1283,7,96,96.2,88,24,No,Survived
+1284,8,94,96.7,81,33,No,Survived
+1285,12,98,98.4,86,33,No,Survived
+1286,29,81,100.2,118,53,Yes,Not Survived
+1287,8,98,97.7,79,28,No,Survived
+1288,27,78,102.2,95,23,Yes,Not Survived
+1289,7,98,96.6,62,27,Yes,Survived
+1290,8,96,96.4,69,47,No,Survived
+1291,25,78,104.9,96,34,Yes,Not Survived
+1292,14,95,97.4,66,25,No,Survived
+1293,7,97,98.3,78,22,Yes,Survived
+1294,19,87,104.5,107,77,Yes,Not Survived
+1295,28,80,104.1,116,77,Yes,Not Survived
+1296,11,96,97.4,72,64,No,Survived
+1297,19,95,100.8,117,32,No,Survived
+1298,12,99,98.8,71,25,No,Survived
+1299,19,87,99.0,107,67,Yes,Not Survived
+1300,27,92,103.9,96,75,Yes,Not Survived
+1301,30,88,103.3,105,50,Yes,Not Survived
+1302,17,87,100.5,93,45,Yes,Not Survived
+1303,6,93,97.3,83,27,No,Survived
+1304,24,79,96.7,112,38,No,Not Survived
+1305,14,98,97.1,75,28,No,Survived
+1306,7,94,97.3,74,29,No,Survived
+1307,18,81,96.8,110,62,No,Not Survived
+1308,8,94,98.2,66,33,No,Survived
+1309,17,88,101.0,68,43,No,Survived
+1310,11,96,98.3,84,25,Yes,Survived
+1311,9,95,97.6,73,30,No,Survived
+1312,12,94,97.3,75,24,No,Survived
+1313,22,86,100.7,102,27,Yes,Not Survived
+1314,27,85,100.8,119,75,No,Not Survived
+1315,25,86,101.3,105,63,Yes,Not Survived
+1316,5,98,98.3,91,22,No,Survived
+1317,30,90,104.5,98,74,Yes,Not Survived
+1318,10,83,105.2,98,49,No,Not Survived
+1319,25,93,101.1,102,47,Yes,Not Survived
+1320,6,96,98.1,87,28,No,Survived
+1321,9,92,97.0,90,34,Yes,Survived
+1322,6,96,97.0,99,33,Yes,Survived
+1323,10,95,96.2,90,50,No,Survived
+1324,16,77,100.1,118,43,Yes,Not Survived
+1325,7,95,96.5,95,58,No,Not Survived
+1326,10,98,96.9,87,24,No,Survived
+1327,10,99,97.8,86,23,No,Survived
+1328,24,83,101.9,117,75,Yes,Not Survived
+1329,11,94,96.3,97,75,No,Survived
+1330,9,95,98.6,68,31,Yes,Survived
+1331,14,99,96.7,76,43,Yes,Survived
+1332,13,85,104.7,109,80,Yes,Not Survived
+1333,12,79,97.4,104,39,Yes,Not Survived
+1334,17,94,104.4,113,63,Yes,Not Survived
+1335,28,81,102.4,110,49,Yes,Not Survived
+1336,24,82,101.4,102,51,Yes,Not Survived
+1337,6,93,97.9,71,25,No,Survived
+1338,10,96,96.5,84,46,No,Survived
+1339,8,98,101.5,102,52,Yes,Survived
+1340,23,85,101.3,118,49,Yes,Not Survived
+1341,13,98,98.0,94,33,No,Survived
+1342,28,84,103.0,103,70,No,Not Survived
+1343,30,84,99.5,112,47,Yes,Not Survived
+1344,1,97,104.1,96,77,No,Not Survived
+1345,11,97,96.4,83,44,No,Survived
+1346,7,97,98.0,71,46,No,Survived
+1347,21,90,101.4,100,50,Yes,Not Survived
+1348,6,96,98.0,85,43,No,Survived
+1349,2,79,101.6,118,50,Yes,Not Survived
+1350,22,82,103.0,75,40,Yes,Survived
+1351,8,96,97.9,93,69,No,Survived
+1352,10,80,101.3,97,50,Yes,Not Survived
+1353,14,79,97.1,98,57,Yes,Not Survived
+1354,29,81,98.0,120,71,Yes,Not Survived
+1355,10,99,97.3,95,53,No,Survived
+1356,10,92,96.3,96,54,No,Survived
+1357,10,94,98.9,77,48,No,Survived
+1358,8,79,100.5,106,32,No,Not Survived
+1359,16,86,105.8,101,48,No,Not Survived
+1360,30,75,101.3,69,53,No,Not Survived
+1361,15,86,99.1,81,36,Yes,Survived
+1362,4,92,97.1,73,49,No,Survived
+1363,29,88,99.2,110,53,No,Not Survived
+1364,13,98,98.2,71,29,No,Survived
+1365,28,80,100.5,99,71,Yes,Not Survived
+1366,24,92,101.6,72,65,Yes,Not Survived
+1367,3,97,97.8,69,47,No,Survived
+1368,4,97,97.3,83,43,Yes,Survived
+1369,17,79,103.2,103,49,Yes,Not Survived
+1370,23,92,105.0,103,76,Yes,Not Survived
+1371,13,93,96.6,69,31,No,Survived
+1372,11,87,103.8,90,75,Yes,Not Survived
+1373,19,79,100.7,106,53,Yes,Not Survived
+1374,7,95,98.0,84,48,No,Survived
+1375,10,98,96.2,63,23,No,Survived
+1376,27,87,97.7,86,75,Yes,Survived
+1377,19,80,103.2,118,47,Yes,Not Survived
+1378,30,95,101.2,110,50,No,Not Survived
+1379,15,100,97.7,71,25,No,Survived
+1380,10,80,98.0,104,59,Yes,Not Survived
+1381,6,93,98.0,88,47,No,Survived
+1382,3,99,97.8,81,32,No,Survived
+1383,13,95,97.8,84,32,No,Survived
+1384,12,84,99.7,81,63,Yes,Survived
+1385,14,97,97.1,90,40,No,Survived
+1386,25,83,101.7,114,46,Yes,Not Survived
+1387,20,78,98.3,105,56,Yes,Not Survived
+1388,7,96,98.6,82,22,No,Survived
+1389,10,94,97.0,97,48,No,Survived
+1390,22,80,104.8,117,50,Yes,Not Survived
+1391,16,79,100.8,101,72,Yes,Not Survived
+1392,18,98,101.5,91,37,No,Not Survived
+1393,26,86,102.2,104,62,No,Not Survived
+1394,10,97,97.5,81,29,No,Survived
+1395,7,98,98.0,74,44,No,Survived
+1396,13,97,98.2,93,26,No,Survived
+1397,13,96,97.3,68,27,No,Survived
+1398,25,79,97.7,66,52,No,Not Survived
+1399,16,82,102.0,109,71,Yes,Not Survived
+1400,9,94,96.8,77,42,Yes,Survived
+1401,29,86,101.8,98,35,Yes,Not Survived
+1402,8,93,97.5,67,22,No,Survived
+1403,8,95,97.4,65,33,No,Survived
+1404,15,94,96.9,70,29,No,Survived
+1405,4,94,96.9,65,38,No,Survived
+1406,13,94,96.8,70,47,No,Survived
+1407,11,97,96.4,79,39,No,Survived
+1408,26,86,98.6,113,78,No,Not Survived
+1409,15,94,96.1,97,49,No,Survived
+1410,15,87,96.4,95,71,Yes,Not Survived
+1411,3,96,97.3,76,34,Yes,Survived
+1412,15,96,97.4,63,23,No,Survived
+1413,3,100,97.7,66,26,Yes,Survived
+1414,4,99,97.5,80,33,No,Survived
+1415,23,85,98.4,110,49,Yes,Not Survived
+1416,16,77,99.9,103,49,Yes,Not Survived
+1417,27,82,97.7,100,78,No,Not Survived
+1418,27,92,100.4,112,27,Yes,Not Survived
+1419,13,85,98.3,101,56,Yes,Not Survived
+1420,4,98,97.3,83,44,No,Survived
+1421,6,95,97.8,79,33,No,Survived
+1422,28,86,98.2,112,50,Yes,Not Survived
+1423,7,99,97.0,93,52,No,Survived
+1424,4,97,97.1,84,22,No,Survived
+1425,10,98,97.5,87,32,No,Survived
+1426,12,100,98.7,76,23,No,Survived
+1427,14,85,98.3,96,61,No,Not Survived
+1428,29,90,97.4,104,62,Yes,Not Survived
+1429,22,89,103.8,117,45,No,Not Survived
+1430,28,80,104.2,104,49,Yes,Not Survived
+1431,13,97,98.7,97,26,No,Survived
+1432,28,90,99.6,100,41,Yes,Not Survived
+1433,25,77,97.3,113,70,Yes,Not Survived
+1434,14,95,97.9,91,44,No,Survived
+1435,11,86,102.9,108,62,No,Not Survived
+1436,27,78,99.4,103,73,Yes,Not Survived
+1437,6,97,97.3,70,50,No,Survived
+1438,25,84,104.0,98,38,Yes,Not Survived
+1439,28,77,99.5,71,51,Yes,Survived
+1440,14,77,102.1,104,47,Yes,Not Survived
+1441,18,82,103.3,105,77,Yes,Not Survived
+1442,13,85,102.6,103,58,Yes,Not Survived
+1443,6,99,96.1,77,75,No,Survived
+1444,8,94,98.6,79,23,No,Survived
+1445,16,84,99.4,102,67,No,Not Survived
+1446,22,83,101.1,108,66,Yes,Not Survived
+1447,11,98,98.2,79,29,No,Survived
+1448,27,92,98.3,102,79,Yes,Not Survived
+1449,30,77,98.1,114,80,Yes,Not Survived
+1450,11,97,97.3,92,23,No,Survived
+1451,5,98,98.7,67,74,Yes,Survived
+1452,27,82,101.3,105,74,Yes,Not Survived
+1453,10,91,100.7,119,47,No,Not Survived
+1454,15,94,98.4,77,27,Yes,Survived
+1455,8,96,97.6,82,49,No,Survived
+1456,9,93,97.0,76,27,No,Survived
+1457,5,97,97.6,78,34,Yes,Survived
+1458,14,91,100.8,105,50,Yes,Not Survived
+1459,14,99,96.4,71,32,No,Survived
+1460,18,86,101.4,105,46,Yes,Not Survived
+1461,25,87,102.8,91,69,Yes,Not Survived
+1462,16,77,102.6,96,60,Yes,Not Survived
+1463,4,97,97.2,67,56,No,Survived
+1464,20,81,103.8,105,20,Yes,Not Survived
+1465,19,87,98.7,101,71,Yes,Not Survived
+1466,24,94,105.3,109,45,Yes,Not Survived
+1467,21,79,100.0,106,55,Yes,Not Survived
+1468,6,97,97.9,80,34,Yes,Survived
+1469,29,95,101.8,119,33,Yes,Not Survived
+1470,11,93,99.9,83,43,Yes,Survived
+1471,18,89,97.7,87,57,Yes,Survived
+1472,27,88,99.3,114,47,Yes,Not Survived
+1473,26,88,103.6,101,48,Yes,Not Survived
+1474,29,79,103.1,92,74,Yes,Not Survived
+1475,10,94,97.9,62,42,No,Survived
+1476,10,95,97.6,72,24,No,Survived
+1477,16,90,102.9,107,50,Yes,Not Survived
+1478,12,82,99.9,106,23,No,Not Survived
+1479,12,97,96.8,76,63,No,Survived
+1480,8,98,97.6,85,55,Yes,Survived
+1481,22,95,101.4,102,73,Yes,Not Survived
+1482,4,98,97.4,83,24,No,Survived
+1483,13,100,97.1,86,49,Yes,Survived
+1484,29,85,101.6,96,29,Yes,Not Survived
+1485,12,89,102.0,120,42,No,Not Survived
+1486,30,87,101.5,94,75,Yes,Not Survived
+1487,16,77,98.8,110,78,Yes,Not Survived
+1488,9,96,98.2,88,33,No,Survived
+1489,14,94,98.0,71,36,No,Survived
+1490,28,81,97.4,100,58,No,Not Survived
+1491,10,87,104.3,104,43,Yes,Not Survived
+1492,18,83,102.8,100,48,Yes,Not Survived
+1493,9,99,96.1,98,50,No,Survived
+1494,10,97,97.3,73,46,No,Survived
+1495,24,82,102.6,96,39,Yes,Not Survived
+1496,15,77,102.2,114,43,Yes,Not Survived
+1497,13,86,103.9,109,69,Yes,Not Survived
+1498,16,79,101.3,104,70,No,Not Survived
+1499,7,75,98.1,118,80,No,Not Survived
+1500,20,80,103.8,97,39,Yes,Not Survived
+1501,24,85,99.8,112,55,Yes,Not Survived
+1502,23,82,103.0,110,40,No,Not Survived
+1503,3,96,97.1,67,38,No,Survived
+1504,22,95,105.7,105,59,Yes,Not Survived
+1505,16,88,102.3,95,67,Yes,Not Survived
+1506,6,93,97.8,74,35,No,Survived
+1507,8,93,96.4,87,29,No,Survived
+1508,24,88,99.8,99,50,Yes,Not Survived
+1509,7,94,96.1,77,33,No,Survived
+1510,27,91,99.1,94,49,Yes,Not Survived
+1511,19,87,101.6,118,30,Yes,Not Survived
+1512,12,98,97.4,71,24,No,Survived
+1513,7,95,98.7,76,32,No,Survived
+1514,16,82,100.3,113,79,No,Not Survived
+1515,6,97,98.9,77,74,No,Survived
+1516,28,81,98.5,95,43,Yes,Not Survived
+1517,9,100,104.1,63,39,Yes,Survived
+1518,25,80,103.7,112,50,Yes,Not Survived
+1519,10,94,98.3,75,61,No,Survived
+1520,14,99,97.6,75,24,No,Survived
+1521,4,95,98.2,76,47,No,Survived
+1522,29,89,103.2,102,54,Yes,Not Survived
+1523,9,98,97.9,95,24,No,Survived
+1524,7,96,96.1,80,30,Yes,Survived
+1525,12,98,97.0,88,45,No,Survived
+1526,21,90,99.8,102,66,Yes,Not Survived
+1527,21,92,103.0,104,62,No,Not Survived
+1528,19,77,103.8,91,73,Yes,Not Survived
+1529,11,96,96.9,94,29,No,Survived
+1530,25,79,97.0,105,64,Yes,Not Survived
+1531,7,97,96.1,94,69,No,Survived
+1532,11,93,98.7,75,26,No,Survived
+1533,3,92,97.3,93,37,No,Survived
+1534,22,81,101.4,100,49,Yes,Not Survived
+1535,25,90,104.9,112,71,Yes,Not Survived
+1536,16,83,100.6,97,61,Yes,Not Survived
+1537,12,90,102.7,74,64,No,Survived
+1538,8,95,97.4,67,29,No,Survived
+1539,12,98,98.4,80,22,No,Survived
+1540,16,84,101.3,112,73,No,Not Survived
+1541,14,88,104.4,99,47,Yes,Not Survived
+1542,7,75,99.8,79,60,Yes,Survived
+1543,23,77,101.0,112,60,Yes,Not Survived
+1544,30,88,102.8,101,24,Yes,Not Survived
+1545,7,95,96.3,85,45,No,Survived
+1546,8,85,96.5,74,78,No,Survived
+1547,8,93,97.2,73,29,No,Survived
+1548,6,99,96.7,79,47,No,Survived
+1549,29,84,99.3,112,70,No,Not Survived
+1550,16,92,102.3,105,44,Yes,Not Survived
+1551,7,94,98.7,78,36,No,Survived
+1552,28,88,101.0,116,48,Yes,Not Survived
+1553,20,87,99.7,100,74,No,Not Survived
+1554,29,85,101.6,113,56,No,Not Survived
+1555,28,86,103.1,94,72,No,Not Survived
+1556,8,100,98.6,72,45,Yes,Survived
+1557,26,91,97.6,111,57,No,Not Survived
+1558,18,87,100.6,118,45,Yes,Not Survived
+1559,14,100,96.6,83,62,Yes,Survived
+1560,7,97,98.1,70,24,No,Survived
+1561,5,98,97.9,64,23,Yes,Survived
+1562,11,91,104.1,98,38,Yes,Survived
+1563,16,75,98.0,120,49,No,Survived
+1564,11,96,98.3,91,38,No,Survived
+1565,18,85,100.4,94,27,Yes,Not Survived
+1566,4,98,97.2,78,32,No,Survived
+1567,10,99,97.0,72,49,No,Survived
+1568,28,80,105.4,113,44,Yes,Not Survived
+1569,26,80,104.4,113,49,Yes,Not Survived
+1570,10,83,103.4,64,74,No,Survived
+1571,4,95,96.2,68,36,No,Survived
+1572,23,80,101.5,111,79,Yes,Not Survived
+1573,30,75,98.4,103,66,No,Not Survived
+1574,15,81,105.5,97,70,Yes,Not Survived
+1575,11,80,97.5,103,64,No,Not Survived
+1576,21,83,102.8,101,48,No,Not Survived
+1577,16,87,97.1,95,75,Yes,Not Survived
+1578,20,81,103.1,96,71,Yes,Not Survived
+1579,9,86,96.5,114,35,Yes,Survived
+1580,8,97,97.3,82,42,No,Survived
+1581,6,97,98.8,68,35,No,Survived
+1582,27,87,102.5,119,62,No,Not Survived
+1583,29,85,97.7,86,54,No,Survived
+1584,6,96,98.5,73,54,No,Survived
+1585,24,86,99.4,114,30,Yes,Not Survived
+1586,8,93,97.3,84,22,No,Survived
+1587,29,89,100.7,105,50,No,Not Survived
+1588,12,92,98.1,65,29,No,Survived
+1589,29,84,97.9,94,41,Yes,Not Survived
+1590,25,77,100.2,98,46,Yes,Not Survived
+1591,9,96,97.3,78,25,No,Survived
+1592,5,99,98.3,79,46,No,Survived
+1593,8,98,97.5,70,38,No,Survived
+1594,20,80,98.1,96,69,Yes,Not Survived
+1595,15,97,96.8,72,26,No,Survived
+1596,9,98,98.4,74,74,No,Survived
+1597,22,80,98.0,106,48,No,Not Survived
+1598,22,84,101.0,118,45,Yes,Not Survived
+1599,24,78,104.6,94,50,Yes,Not Survived
+1600,27,86,98.8,106,76,Yes,Not Survived
+1601,13,83,98.2,107,48,Yes,Not Survived
+1602,13,95,97.2,72,28,No,Survived
+1603,29,82,101.4,111,64,No,Not Survived
+1604,15,93,97.3,81,47,No,Survived
+1605,8,96,97.2,91,30,No,Survived
+1606,23,84,100.2,106,44,Yes,Not Survived
+1607,9,100,98.6,92,25,No,Survived
+1608,14,90,99.7,109,80,No,Not Survived
+1609,10,96,97.5,88,45,Yes,Survived
+1610,5,100,97.3,96,25,No,Survived
+1611,26,78,101.1,93,76,Yes,Not Survived
+1612,5,96,97.3,95,49,No,Survived
+1613,20,94,104.0,91,80,Yes,Not Survived
+1614,14,95,97.4,112,52,No,Not Survived
+1615,4,94,98.4,82,47,No,Survived
+1616,8,77,96.9,117,41,No,Not Survived
+1617,8,98,97.7,95,34,No,Survived
+1618,30,83,99.8,103,64,Yes,Not Survived
+1619,16,87,99.8,104,58,Yes,Not Survived
+1620,12,95,98.3,98,46,No,Survived
+1621,12,97,98.3,75,45,No,Survived
+1622,11,94,97.0,82,32,No,Survived
+1623,17,77,101.4,104,77,Yes,Not Survived
+1624,24,89,98.6,90,66,No,Not Survived
+1625,27,84,105.3,104,66,Yes,Not Survived
+1626,23,78,105.6,95,78,Yes,Not Survived
+1627,13,90,105.3,94,66,Yes,Not Survived
+1628,21,83,103.9,104,32,No,Not Survived
+1629,29,81,104.4,63,79,No,Not Survived
+1630,10,99,96.5,88,25,Yes,Survived
+1631,14,95,98.1,82,48,No,Survived
+1632,9,84,98.1,60,44,Yes,Survived
+1633,30,79,101.1,111,68,Yes,Not Survived
+1634,20,86,100.8,91,29,Yes,Not Survived
+1635,29,86,103.4,99,74,Yes,Not Survived
+1636,29,89,102.0,93,47,Yes,Not Survived
+1637,6,94,98.1,61,48,No,Survived
+1638,20,91,100.6,107,68,Yes,Not Survived
+1639,28,81,102.1,110,65,Yes,Not Survived
+1640,9,97,97.1,69,30,No,Survived
+1641,7,98,97.6,61,26,No,Survived
+1642,28,81,99.0,110,68,No,Not Survived
+1643,7,94,96.3,89,48,No,Survived
+1644,22,82,98.9,103,44,Yes,Not Survived
+1645,8,94,96.9,87,46,No,Survived
+1646,26,87,104.4,100,59,Yes,Not Survived
+1647,10,99,97.6,82,28,No,Survived
+1648,22,82,105.0,107,47,Yes,Not Survived
+1649,10,97,98.9,82,42,No,Survived
+1650,14,93,98.6,70,75,No,Survived
+1651,22,83,104.9,95,52,Yes,Not Survived
+1652,9,94,98.4,89,29,No,Survived
+1653,10,93,98.5,78,22,Yes,Survived
+1654,28,78,99.7,97,64,Yes,Not Survived
+1655,29,82,101.1,106,59,Yes,Not Survived
+1656,8,97,96.5,94,23,Yes,Survived
+1657,21,81,100.1,117,70,Yes,Not Survived
+1658,17,78,101.1,96,29,Yes,Not Survived
+1659,15,94,98.7,78,48,No,Survived
+1660,18,77,104.9,76,47,No,Survived
+1661,25,82,103.1,113,74,Yes,Not Survived
+1662,12,93,98.4,89,47,No,Survived
+1663,22,77,100.5,113,43,Yes,Not Survived
+1664,11,83,98.9,66,39,Yes,Not Survived
+1665,4,95,98.2,91,36,No,Survived
+1666,10,96,98.1,74,26,No,Survived
+1667,11,93,98.0,81,27,No,Survived
+1668,9,95,97.6,76,42,No,Survived
+1669,12,96,96.2,60,76,No,Survived
+1670,20,85,104.5,104,47,Yes,Not Survived
+1671,6,98,96.0,74,46,No,Survived
+1672,30,82,97.7,115,34,Yes,Not Survived
+1673,16,89,103.3,96,47,No,Not Survived
+1674,30,79,101.4,90,34,No,Survived
+1675,13,94,97.8,83,44,No,Survived
+1676,6,97,97.3,77,30,No,Survived
+1677,8,96,97.3,61,47,No,Survived
+1678,17,78,98.2,103,72,Yes,Not Survived
+1679,28,86,102.5,97,47,Yes,Not Survived
+1680,8,97,98.8,75,32,No,Survived
+1681,21,87,103.4,98,62,No,Not Survived
+1682,30,92,96.2,88,42,Yes,Survived
+1683,15,86,100.2,107,76,Yes,Not Survived
+1684,17,87,102.8,65,80,Yes,Not Survived
+1685,6,93,96.7,84,23,No,Survived
+1686,4,99,97.0,78,49,No,Survived
+1687,28,88,101.1,102,71,Yes,Not Survived
+1688,11,77,98.9,116,80,Yes,Not Survived
+1689,8,96,98.3,70,24,No,Survived
+1690,17,88,105.7,101,77,Yes,Not Survived
+1691,6,96,96.0,86,65,Yes,Survived
+1692,10,98,97.2,89,48,No,Survived
+1693,18,82,99.1,110,70,No,Not Survived
+1694,10,98,98.4,96,60,No,Survived
+1695,15,96,97.5,79,22,No,Survived
+1696,10,94,96.2,83,44,No,Survived
+1697,12,92,97.4,98,29,No,Survived
+1698,19,86,99.4,113,78,No,Not Survived
+1699,8,96,96.8,91,29,No,Survived
+1700,18,81,104.3,95,56,Yes,Not Survived
+1701,10,99,97.3,91,24,No,Survived
+1702,10,94,97.0,67,25,No,Survived
+1703,17,82,102.0,97,48,No,Not Survived
+1704,5,94,97.7,90,22,No,Survived
+1705,10,95,98.1,77,22,No,Survived
+1706,9,97,97.2,67,43,No,Survived
+1707,14,95,98.2,78,33,No,Survived
+1708,15,81,102.7,92,61,Yes,Not Survived
+1709,5,96,97.1,93,29,No,Survived
+1710,9,96,98.5,81,23,No,Survived
+1711,7,100,97.7,83,29,No,Survived
+1712,21,86,100.4,107,23,Yes,Not Survived
+1713,30,89,104.5,94,48,Yes,Not Survived
+1714,21,88,100.3,92,42,No,Not Survived
+1715,9,96,98.2,63,24,No,Survived
+1716,24,90,99.5,109,35,Yes,Not Survived
+1717,10,98,97.2,68,46,No,Survived
+1718,23,86,103.3,113,63,Yes,Not Survived
+1719,5,94,96.4,78,47,No,Survived
+1720,9,94,97.8,85,26,No,Survived
+1721,12,96,98.2,93,28,No,Survived
+1722,25,77,100.2,102,79,Yes,Not Survived
+1723,25,86,98.3,104,69,Yes,Not Survived
+1724,30,85,103.2,111,46,Yes,Not Survived
+1725,26,87,104.0,112,69,No,Not Survived
+1726,23,80,101.9,99,71,Yes,Not Survived
+1727,15,97,96.8,80,30,No,Survived
+1728,24,81,100.5,104,58,Yes,Not Survived
+1729,11,93,97.4,77,78,No,Survived
+1730,6,99,98.6,85,23,No,Survived
+1731,14,95,97.3,73,24,No,Survived
+1732,28,93,104.0,117,58,No,Not Survived
+1733,12,94,97.1,90,64,No,Survived
+1734,30,84,105.1,101,45,Yes,Not Survived
+1735,24,91,100.1,107,73,No,Not Survived
+1736,14,83,98.7,113,62,Yes,Not Survived
+1737,19,77,98.1,109,44,Yes,Not Survived
+1738,22,88,98.8,104,69,Yes,Not Survived
+1739,11,95,98.0,66,43,No,Survived
+1740,28,84,103.6,106,68,Yes,Not Survived
+1741,30,93,101.2,106,53,No,Not Survived
+1742,3,81,97.1,67,21,Yes,Survived
+1743,15,86,98.8,98,54,Yes,Not Survived
+1744,4,97,96.9,91,36,No,Survived
+1745,7,78,101.8,71,22,No,Not Survived
+1746,20,89,100.1,109,60,Yes,Not Survived
+1747,26,88,102.3,120,67,No,Not Survived
+1748,15,87,105.5,91,43,Yes,Not Survived
+1749,10,94,96.5,95,43,No,Survived
+1750,17,84,98.5,111,43,No,Not Survived
+1751,8,99,96.5,90,24,No,Survived
+1752,14,97,96.9,71,32,No,Survived
+1753,3,97,96.7,93,60,No,Survived
+1754,18,85,100.7,105,42,Yes,Not Survived
+1755,15,81,101.9,106,67,Yes,Not Survived
+1756,15,79,97.4,112,48,No,Not Survived
+1757,5,99,97.5,76,24,Yes,Survived
+1758,22,96,103.5,79,24,Yes,Survived
+1759,22,100,102.2,104,64,No,Survived
+1760,12,99,98.4,91,48,No,Survived
+1761,24,88,103.5,106,48,No,Not Survived
+1762,23,87,103.4,113,44,Yes,Not Survived
+1763,6,97,96.9,82,50,Yes,Survived
+1764,8,94,96.5,79,33,No,Survived
+1765,27,87,103.2,99,34,Yes,Not Survived
+1766,18,87,105.5,100,54,No,Not Survived
+1767,9,95,97.3,96,30,No,Survived
+1768,6,99,96.2,63,47,No,Survived
+1769,9,94,97.3,94,28,No,Survived
+1770,7,97,98.3,74,32,No,Survived
+1771,20,87,102.8,100,60,Yes,Not Survived
+1772,10,94,98.7,88,27,No,Survived
+1773,8,99,96.6,73,30,No,Survived
+1774,5,96,98.9,65,23,No,Survived
+1775,17,90,97.2,108,51,No,Not Survived
+1776,6,96,97.1,82,33,No,Survived
+1777,11,99,97.2,67,43,No,Survived
+1778,8,96,97.4,73,35,No,Survived
+1779,26,83,97.4,109,63,Yes,Not Survived
+1780,11,86,98.6,109,31,Yes,Not Survived
+1781,6,96,96.9,76,48,Yes,Survived
+1782,9,96,97.6,75,34,No,Survived
+1783,30,77,98.0,106,74,Yes,Not Survived
+1784,30,80,99.7,100,40,Yes,Not Survived
+1785,9,99,97.3,98,24,Yes,Survived
+1786,21,77,103.2,106,33,Yes,Not Survived
+1787,22,91,102.7,100,74,Yes,Not Survived
+1788,7,96,98.8,91,24,No,Survived
+1789,13,80,104.0,91,60,Yes,Not Survived
+1790,29,84,100.0,94,76,Yes,Not Survived
+1791,29,79,103.9,102,73,Yes,Not Survived
+1792,7,96,98.0,81,50,Yes,Survived
+1793,6,97,97.5,85,43,No,Survived
+1794,8,100,97.5,95,28,Yes,Survived
+1795,12,84,97.4,69,49,Yes,Survived
+1796,30,77,101.8,100,50,Yes,Not Survived
+1797,11,79,97.2,99,76,Yes,Not Survived
+1798,3,100,103.3,78,65,Yes,Not Survived
+1799,28,81,104.5,105,78,Yes,Not Survived
+1800,25,82,100.3,105,54,No,Not Survived
+1801,7,98,96.7,75,22,No,Survived
+1802,28,93,103.0,104,65,Yes,Not Survived
+1803,7,97,96.3,91,29,No,Survived
+1804,11,94,96.7,81,24,No,Survived
+1805,8,93,97.0,86,49,No,Survived
+1806,3,97,97.1,64,22,No,Survived
+1807,6,97,96.4,81,53,No,Survived
+1808,19,90,99.2,96,43,No,Not Survived
+1809,8,98,97.5,75,52,Yes,Survived
+1810,9,95,98.2,74,30,No,Survived
+1811,9,97,97.9,81,26,No,Survived
+1812,27,92,99.5,95,66,Yes,Not Survived
+1813,27,85,105.5,93,65,Yes,Not Survived
+1814,14,95,98.0,95,43,No,Survived
+1815,25,89,100.2,97,64,No,Not Survived
+1816,13,89,101.5,108,63,No,Not Survived
+1817,15,81,102.0,108,42,Yes,Not Survived
+1818,10,96,97.7,91,25,No,Survived
+1819,27,79,100.6,114,74,Yes,Not Survived
+1820,29,99,98.3,96,23,Yes,Not Survived
+1821,30,93,101.8,108,44,Yes,Not Survived
+1822,11,100,98.1,89,24,No,Survived
+1823,8,99,98.7,81,26,No,Survived
+1824,7,99,97.1,74,44,No,Survived
+1825,9,94,96.5,66,25,No,Survived
+1826,11,86,101.7,96,65,No,Survived
+1827,24,79,100.3,112,79,Yes,Not Survived
+1828,11,82,97.5,76,59,Yes,Survived
+1829,28,78,103.3,98,50,Yes,Not Survived
+1830,28,85,103.1,110,58,No,Not Survived
+1831,16,88,102.2,103,74,Yes,Not Survived
+1832,9,97,97.3,68,33,No,Survived
+1833,17,79,101.2,103,80,Yes,Not Survived
+1834,17,82,102.6,99,68,Yes,Not Survived
+1835,15,96,98.7,104,30,Yes,Survived
+1836,21,87,96.8,79,61,No,Survived
+1837,24,90,104.9,116,25,No,Not Survived
+1838,3,87,104.5,62,43,No,Survived
+1839,27,93,100.5,95,43,Yes,Not Survived
+1840,8,95,97.8,64,48,No,Survived
+1841,9,97,96.2,76,31,No,Survived
+1842,11,96,97.6,70,74,No,Survived
+1843,9,100,96.0,90,72,No,Survived
+1844,23,79,103.5,112,80,No,Not Survived
+1845,16,80,100.8,99,75,Yes,Not Survived
+1846,14,81,100.5,95,56,No,Not Survived
+1847,17,92,102.1,96,43,No,Not Survived
+1848,11,98,97.2,95,50,No,Survived
+1849,30,79,101.7,104,24,Yes,Survived
+1850,14,80,105.9,116,40,Yes,Not Survived
+1851,17,91,97.4,114,43,Yes,Not Survived
+1852,16,82,103.9,109,59,Yes,Not Survived
+1853,9,96,97.0,73,25,No,Survived
+1854,15,78,102.7,99,72,No,Not Survived
+1855,17,84,105.2,111,68,Yes,Not Survived
+1856,15,83,99.6,120,49,Yes,Not Survived
+1857,5,93,97.6,63,38,Yes,Survived
+1858,27,93,104.6,112,45,Yes,Not Survived
+1859,25,82,104.4,114,75,Yes,Not Survived
+1860,24,94,98.1,72,44,No,Not Survived
+1861,13,94,97.3,61,22,No,Survived
+1862,13,80,101.3,111,49,No,Not Survived
+1863,16,93,102.9,116,79,Yes,Not Survived
+1864,7,99,97.5,77,35,No,Survived
+1865,18,81,105.5,99,76,Yes,Not Survived
+1866,11,89,98.4,102,72,Yes,Not Survived
+1867,28,78,103.3,114,32,Yes,Not Survived
+1868,21,78,103.4,102,55,No,Not Survived
+1869,4,100,97.2,87,35,No,Survived
+1870,7,98,97.0,87,36,No,Survived
+1871,5,96,98.4,65,48,No,Survived
+1872,22,88,98.0,93,24,Yes,Not Survived
+1873,17,90,103.0,74,47,No,Not Survived
+1874,21,82,99.0,105,21,No,Not Survived
+1875,22,95,97.8,103,39,No,Not Survived
+1876,4,96,96.6,78,25,No,Survived
+1877,5,96,96.1,77,74,No,Survived
+1878,29,85,100.9,98,76,Yes,Not Survived
+1879,19,94,103.6,111,46,Yes,Not Survived
+1880,8,99,97.5,83,47,No,Survived
+1881,12,95,98.1,67,44,No,Survived
+1882,29,92,102.2,102,48,Yes,Not Survived
+1883,14,93,99.8,117,49,No,Not Survived
+1884,10,95,96.9,80,26,No,Survived
+1885,13,98,97.7,74,29,No,Survived
+1886,12,98,96.7,90,39,No,Survived
+1887,27,90,102.4,113,77,No,Not Survived
+1888,5,95,97.7,75,22,No,Survived
+1889,26,82,97.7,99,78,No,Not Survived
+1890,18,85,102.4,109,31,Yes,Not Survived
+1891,14,92,97.7,74,33,No,Survived
+1892,20,92,99.1,109,76,Yes,Not Survived
+1893,7,97,98.6,78,37,Yes,Survived
+1894,8,92,97.7,78,27,No,Survived
+1895,10,100,96.6,64,34,No,Survived
+1896,30,80,101.0,92,70,Yes,Not Survived
+1897,10,97,96.4,80,46,No,Survived
+1898,18,83,104.8,102,67,No,Not Survived
+1899,5,96,96.8,78,45,No,Survived
+1900,30,87,98.8,91,44,Yes,Not Survived
+1901,28,87,100.4,95,40,Yes,Not Survived
+1902,7,98,97.5,65,48,No,Survived
+1903,13,93,97.2,73,24,No,Survived
+1904,12,77,100.6,102,57,No,Not Survived
+1905,4,96,98.4,79,42,No,Survived
+1906,12,94,98.0,86,45,Yes,Survived
+1907,13,96,97.2,74,35,No,Survived
+1908,9,97,97.4,78,28,No,Survived
+1909,28,91,103.5,97,26,Yes,Not Survived
+1910,13,77,99.3,92,77,Yes,Not Survived
+1911,4,96,97.5,73,31,No,Survived
+1912,8,93,97.4,78,24,Yes,Survived
+1913,29,86,102.6,114,79,Yes,Not Survived
+1914,13,87,101.1,101,79,No,Not Survived
+1915,15,96,97.1,67,40,Yes,Survived
+1916,8,100,97.0,92,45,Yes,Survived
+1917,6,97,97.3,70,25,No,Survived
+1918,5,96,97.6,85,25,No,Survived
+1919,14,96,96.8,79,43,No,Survived
+1920,25,84,100.4,98,43,Yes,Not Survived
+1921,26,81,99.3,98,43,Yes,Not Survived
+1922,26,85,102.0,95,76,No,Not Survived
+1923,12,80,100.1,108,66,Yes,Not Survived
+1924,28,84,99.2,102,42,Yes,Not Survived
+1925,12,97,98.5,78,33,No,Survived
+1926,23,80,103.4,95,45,Yes,Not Survived
+1927,9,94,96.1,70,25,No,Survived
+1928,8,94,97.9,75,44,No,Survived
+1929,22,94,104.5,103,69,Yes,Not Survived
+1930,26,83,97.3,101,76,Yes,Not Survived
+1931,3,95,97.0,72,37,Yes,Survived
+1932,13,82,99.9,95,46,Yes,Not Survived
+1933,20,84,103.5,116,63,Yes,Not Survived
+1934,21,87,100.0,107,50,Yes,Not Survived
+1935,4,94,97.4,86,42,Yes,Survived
+1936,11,95,97.9,79,30,No,Survived
+1937,20,94,103.2,118,56,Yes,Not Survived
+1938,26,82,100.5,97,48,No,Not Survived
+1939,3,97,97.5,66,26,No,Survived
+1940,24,94,99.9,111,75,Yes,Not Survived
+1941,15,98,98.6,74,24,No,Survived
+1942,9,96,98.1,60,23,No,Survived
+1943,4,97,98.9,66,43,No,Survived
+1944,15,94,96.6,75,29,No,Survived
+1945,5,97,97.7,82,27,No,Survived
+1946,19,82,104.1,92,47,Yes,Not Survived
+1947,16,89,100.7,102,60,No,Not Survived
+1948,10,97,98.1,89,27,No,Survived
+1949,11,97,97.8,89,58,No,Survived
+1950,16,77,98.8,115,78,Yes,Not Survived
+1951,29,90,100.5,108,44,Yes,Not Survived
+1952,11,94,97.0,78,50,No,Survived
+1953,9,90,97.1,104,40,Yes,Not Survived
+1954,22,92,98.6,101,69,Yes,Not Survived
+1955,12,94,98.1,66,24,No,Survived
+1956,14,91,100.0,109,48,No,Not Survived
+1957,13,95,97.3,74,26,Yes,Survived
+1958,11,95,96.0,71,43,No,Survived
+1959,26,79,101.9,112,52,No,Not Survived
+1960,14,77,102.1,107,55,Yes,Not Survived
+1961,9,94,98.1,93,54,No,Survived
+1962,7,95,96.8,63,30,No,Survived
+1963,4,94,98.7,98,26,No,Survived
+1964,4,96,97.4,65,30,Yes,Survived
+1965,15,80,104.6,97,78,No,Not Survived
+1966,4,92,97.8,89,43,No,Survived
+1967,21,83,100.7,98,35,No,Not Survived
+1968,20,90,102.3,64,37,Yes,Not Survived
+1969,6,95,97.5,94,48,No,Survived
+1970,4,75,101.6,104,79,No,Survived
+1971,28,82,103.5,91,44,Yes,Not Survived
+1972,23,82,101.7,108,46,Yes,Survived
+1973,20,79,99.0,103,65,Yes,Not Survived
+1974,7,93,97.1,78,35,Yes,Survived
+1975,27,99,99.2,65,71,No,Survived
+1976,30,77,103.2,111,59,Yes,Not Survived
+1977,9,95,97.2,93,31,No,Survived
+1978,5,99,96.3,79,30,Yes,Survived
+1979,4,75,100.8,64,71,Yes,Not Survived
+1980,25,77,104.2,103,73,Yes,Not Survived
+1981,11,82,104.9,105,61,Yes,Not Survived
+1982,8,96,98.9,72,36,No,Survived
+1983,3,96,97.5,65,56,No,Survived
+1984,4,98,98.0,66,23,No,Survived
+1985,14,94,97.8,84,25,No,Survived
+1986,27,87,97.9,115,74,Yes,Not Survived
+1987,10,96,97.5,69,48,No,Survived
+1988,19,78,103.4,91,48,No,Not Survived
+1989,7,94,97.4,72,36,No,Survived
+1990,9,98,96.3,99,46,No,Survived
+1991,10,78,100.8,106,49,Yes,Not Survived
+1992,14,94,97.4,83,27,No,Survived
+1993,7,93,97.7,76,34,No,Survived
+1994,27,82,100.9,99,71,Yes,Not Survived
+1995,5,96,96.1,82,31,No,Survived
+1996,5,98,98.0,95,47,No,Survived
