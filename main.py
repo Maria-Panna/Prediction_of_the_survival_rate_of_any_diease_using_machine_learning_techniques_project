@@ -7,8 +7,8 @@ import pickle, sys
 
 
     # Replace with actual API key and sheet ID
-api_key = 'AIzaSyDm_hlrMN3Jnbv3gpqjnp3-AxBL0p0yJnQ'
-sheet_id = '1ldRvUorkTKZApqkLkD_NXiJm5DkLKa6A3WO-uNmigPE'
+api_key = 'your api key'
+sheet_id = 'your sheet id'
 
 def getLatestVitals():
     # Initialize GoogleSheets
